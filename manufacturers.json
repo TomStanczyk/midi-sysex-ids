@@ -1,4146 +1,4738 @@
 [
-    {
-       "id":{
-          "hex":"01",
-          "length":1
-       },
-       "name":"Sequential"
-    },
-    {
-       "id":{
-          "hex":"02",
-          "length":1
-       },
-       "name":"IDP"
-    },
-    {
-       "id":{
-          "hex":"03",
-          "length":1
-       },
-       "name":"Voyetra Turtle Beach"
-    },
-    {
-       "id":{
-          "hex":"04",
-          "length":1
-       },
-       "name":"Moog"
-    },
-    {
-       "id":{
-          "hex":"05",
-          "length":1
-       },
-       "name":"Passport Designs"
-    },
-    {
-       "id":{
-          "hex":"06",
-          "length":1
-       },
-       "name":"Lexicon"
-    },
-    {
-       "id":{
-          "hex":"07",
-          "length":1
-       },
-       "name":"Kurzweil"
-    },
-    {
-       "id":{
-          "hex":"08",
-          "length":1
-       },
-       "name":"Fender"
-    },
-    {
-       "id":{
-          "hex":"09",
-          "length":1
-       },
-       "name":"MIDI9"
-    },
-    {
-       "id":{
-          "hex":"0a",
-          "length":1
-       },
-       "name":"AKG"
-    },
-    {
-       "id":{
-          "hex":"0b",
-          "length":1
-       },
-       "name":"Voyce Music"
-    },
-    {
-       "id":{
-          "hex":"0c",
-          "length":1
-       },
-       "name":"WaveFrame"
-    },
-    {
-       "id":{
-          "hex":"0d",
-          "length":1
-       },
-       "name":"ADA"
-    },
-    {
-       "id":{
-          "hex":"0e",
-          "length":1
-       },
-       "name":"Garfield Electronics"
-    },
-    {
-       "id":{
-          "hex":"0f",
-          "length":1
-       },
-       "name":"Ensoniq"
-    },
-    {
-       "id":{
-          "hex":"10",
-          "length":1
-       },
-       "name":"Oberheim"
-    },
-    {
-       "id":{
-          "hex":"11",
-          "length":1
-       },
-       "name":"Apple"
-    },
-    {
-       "id":{
-          "hex":"12",
-          "length":1
-       },
-       "name":"Grey Matter Response"
-    },
-    {
-       "id":{
-          "hex":"13",
-          "length":1
-       },
-       "name":"Digidesign"
-    },
-    {
-       "id":{
-          "hex":"14",
-          "length":1
-       },
-       "name":"Palmtree Instruments"
-    },
-    {
-       "id":{
-          "hex":"15",
-          "length":1
-       },
-       "name":"JLCooper Electronics"
-    },
-    {
-       "id":{
-          "hex":"16",
-          "length":1
-       },
-       "name":"Lowrey"
-    },
-    {
-       "id":{
-          "hex":"17",
-          "length":1
-       },
-       "name":"Adams-Smith"
-    },
-    {
-       "id":{
-          "hex":"18",
-          "length":1
-       },
-       "name":"E-MU"
-    },
-    {
-       "id":{
-          "hex":"19",
-          "length":1
-       },
-       "name":"Harmony Systems"
-    },
-    {
-       "id":{
-          "hex":"1a",
-          "length":1
-       },
-       "name":"ART"
-    },
-    {
-       "id":{
-          "hex":"1b",
-          "length":1
-       },
-       "name":"Baldwin"
-    },
-    {
-       "id":{
-          "hex":"1c",
-          "length":1
-       },
-       "name":"Eventide"
-    },
-    {
-       "id":{
-          "hex":"1d",
-          "length":1
-       },
-       "name":"Inventronics"
-    },
-    {
-       "id":{
-          "hex":"1e",
-          "length":1
-       },
-       "name":"Key Concepts"
-    },
-    {
-       "id":{
-          "hex":"1f",
-          "length":1
-       },
-       "name":"Clarity"
-    },
-    {
-       "id":{
-          "hex":"20",
-          "length":1
-       },
-       "name":"Passac"
-    },
-    {
-       "id":{
-          "hex":"21",
-          "length":1
-       },
-       "name":"Proel Labs"
-    },
-    {
-       "id":{
-          "hex":"22",
-          "length":1
-       },
-       "name":"Synthaxe"
-    },
-    {
-       "id":{
-          "hex":"23",
-          "length":1
-       },
-       "name":"Stepp"
-    },
-    {
-       "id":{
-          "hex":"24",
-          "length":1
-       },
-       "name":"Hohner"
-    },
-    {
-       "id":{
-          "hex":"25",
-          "length":1
-       },
-       "name":"Twister"
-    },
-    {
-       "id":{
-          "hex":"26",
-          "length":1
-       },
-       "name":"Ketron"
-    },
-    {
-       "id":{
-          "hex":"27",
-          "length":1
-       },
-       "name":"Jellinghaus"
-    },
-    {
-       "id":{
-          "hex":"28",
-          "length":1
-       },
-       "name":"Southworth Music Systems"
-    },
-    {
-       "id":{
-          "hex":"29",
-          "length":1
-       },
-       "name":"PPG"
-    },
-    {
-       "id":{
-          "hex":"2a",
-          "length":1
-       },
-       "name":"JEN"
-    },
-    {
-       "id":{
-          "hex":"2b",
-          "length":1
-       },
-       "name":"Solid State"
-    },
-    {
-       "id":{
-          "hex":"2c",
-          "length":1
-       },
-       "name":"Audio Vertrieb"
-    },
-    {
-       "id":{
-          "hex":"2d",
-          "length":1
-       },
-       "name":"Neve"
-    },
-    {
-       "id":{
-          "hex":"2e",
-          "length":1
-       },
-       "name":"Soundtracs"
-    },
-    {
-       "id":{
-          "hex":"2f",
-          "length":1
-       },
-       "name":"Elka"
-    },
-    {
-       "id":{
-          "hex":"30",
-          "length":1
-       },
-       "name":"Dynacord"
-    },
-    {
-       "id":{
-          "hex":"31",
-          "length":1
-       },
-       "name":"Viscount"
-    },
-    {
-       "id":{
-          "hex":"32",
-          "length":1
-       },
-       "name":"Drawmer"
-    },
-    {
-       "id":{
-          "hex":"33",
-          "length":1
-       },
-       "name":"Clavia"
-    },
-    {
-       "id":{
-          "hex":"34",
-          "length":1
-       },
-       "name":"Audio Architecture"
-    },
-    {
-       "id":{
-          "hex":"35",
-          "length":1
-       },
-       "name":"Generalmusic"
-    },
-    {
-       "id":{
-          "hex":"36",
-          "length":1
-       },
-       "name":"Cheetah Marketing"
-    },
-    {
-       "id":{
-          "hex":"37",
-          "length":1
-       },
-       "name":"C.T.M."
-    },
-    {
-       "id":{
-          "hex":"38",
-          "length":1
-       },
-       "name":"Simmons"
-    },
-    {
-       "id":{
-          "hex":"39",
-          "length":1
-       },
-       "name":"Soundcraft"
-    },
-    {
-       "id":{
-          "hex":"3a",
-          "length":1
-       },
-       "name":"Steinberg"
-    },
-    {
-       "id":{
-          "hex":"3b",
-          "length":1
-       },
-       "name":"Wersi"
-    },
-    {
-       "id":{
-          "hex":"3c",
-          "length":1
-       },
-       "name":"AVAB"
-    },
-    {
-       "id":{
-          "hex":"3d",
-          "length":1
-       },
-       "name":"Digigram"
-    },
-    {
-       "id":{
-          "hex":"3e",
-          "length":1
-       },
-       "name":"Waldorf"
-    },
-    {
-       "id":{
-          "hex":"3f",
-          "length":1
-       },
-       "name":"Quasimidi"
-    },
-    {
-       "id":{
-          "hex":"40",
-          "length":1
-       },
-       "name":"Kawai"
-    },
-    {
-       "id":{
-          "hex":"41",
-          "length":1
-       },
-       "name":"Roland"
-    },
-    {
-       "id":{
-          "hex":"42",
-          "length":1
-       },
-       "name":"Korg"
-    },
-    {
-       "id":{
-          "hex":"43",
-          "length":1
-       },
-       "name":"Yamaha"
-    },
-    {
-       "id":{
-          "hex":"44",
-          "length":1
-       },
-       "name":"Casio"
-    },
-    {
-       "id":{
-          "hex":"46",
-          "length":1
-       },
-       "name":"Kamiya Studio"
-    },
-    {
-       "id":{
-          "hex":"47",
-          "length":1
-       },
-       "name":"Akai"
-    },
-    {
-       "id":{
-          "hex":"48",
-          "length":1
-       },
-       "name":"Victor"
-    },
-    {
-       "id":{
-          "hex":"4b",
-          "length":1
-       },
-       "name":"Fujitsu"
-    },
-    {
-       "id":{
-          "hex":"4c",
-          "length":1
-       },
-       "name":"Sony"
-    },
-    {
-       "id":{
-          "hex":"4e",
-          "length":1
-       },
-       "name":"Teac"
-    },
-    {
-       "id":{
-          "hex":"50",
-          "length":1
-       },
-       "name":"Matsushita Electric"
-    },
-    {
-       "id":{
-          "hex":"51",
-          "length":1
-       },
-       "name":"Fostex"
-    },
-    {
-       "id":{
-          "hex":"52",
-          "length":1
-       },
-       "name":"Zoom"
-    },
-    {
-       "id":{
-          "hex":"54",
-          "length":1
-       },
-       "name":"Matsushita Communication"
-    },
-    {
-       "id":{
-          "hex":"55",
-          "length":1
-       },
-       "name":"Suzuki"
-    },
-    {
-       "id":{
-          "hex":"56",
-          "length":1
-       },
-       "name":"Fuji"
-    },
-    {
-       "id":{
-          "hex":"57",
-          "length":1
-       },
-       "name":"Acoustic Technical Laboratory"
-    },
-    {
-       "id":{
-          "hex":"59",
-          "length":1
-       },
-       "name":"Faith"
-    },
-    {
-       "id":{
-          "hex":"5a",
-          "length":1
-       },
-       "name":"Internet Corporation"
-    },
-    {
-       "id":{
-          "hex":"5c",
-          "length":1
-       },
-       "name":"Seekers"
-    },
-    {
-       "id":{
-          "hex":"5f",
-          "length":1
-       },
-       "name":"SD Card Association"
-    },
-    {
-       "id":{
-          "hex":"7d",
-          "length":1
-       },
-       "name":"(educational)"
-    },
-    {
-       "id":{
-          "hex":"000001",
-          "length":3
-       },
-       "name":"Time/Warner"
-    },
-    {
-       "id":{
-          "hex":"000002",
-          "length":3
-       },
-       "name":"Advanced Gravis"
-    },
-    {
-       "id":{
-          "hex":"000003",
-          "length":3
-       },
-       "name":"Media Vision"
-    },
-    {
-       "id":{
-          "hex":"000004",
-          "length":3
-       },
-       "name":"Dornes Research Group"
-    },
-    {
-       "id":{
-          "hex":"000005",
-          "length":3
-       },
-       "name":"K-Muse"
-    },
-    {
-       "id":{
-          "hex":"000006",
-          "length":3
-       },
-       "name":"Stypher"
-    },
-    {
-       "id":{
-          "hex":"000007",
-          "length":3
-       },
-       "name":"Digital Music"
-    },
-    {
-       "id":{
-          "hex":"000008",
-          "length":3
-       },
-       "name":"IOTA Systems"
-    },
-    {
-       "id":{
-          "hex":"000009",
-          "length":3
-       },
-       "name":"New England Digital"
-    },
-    {
-       "id":{
-          "hex":"00000a",
-          "length":3
-       },
-       "name":"Artisyn"
-    },
-    {
-       "id":{
-          "hex":"00000b",
-          "length":3
-       },
-       "name":"IVL Technologies"
-    },
-    {
-       "id":{
-          "hex":"00000c",
-          "length":3
-       },
-       "name":"Southern Music Systems"
-    },
-    {
-       "id":{
-          "hex":"00000d",
-          "length":3
-       },
-       "name":"Lake Butler Sound Company"
-    },
-    {
-       "id":{
-          "hex":"00000e",
-          "length":3
-       },
-       "name":"Alesis Studio Electronics"
-    },
-    {
-       "id":{
-          "hex":"00000f",
-          "length":3
-       },
-       "name":"Sound Creation"
-    },
-    {
-       "id":{
-          "hex":"000010",
-          "length":3
-       },
-       "name":"DOD Electronics"
-    },
-    {
-       "id":{
-          "hex":"000011",
-          "length":3
-       },
-       "name":"Studer-Editech"
-    },
-    {
-       "id":{
-          "hex":"000012",
-          "length":3
-       },
-       "name":"Sonus"
-    },
-    {
-       "id":{
-          "hex":"000013",
-          "length":3
-       },
-       "name":"Temporal Acuity Products"
-    },
-    {
-       "id":{
-          "hex":"000014",
-          "length":3
-       },
-       "name":"Perfect Fretworks"
-    },
-    {
-       "id":{
-          "hex":"000015",
-          "length":3
-       },
-       "name":"KAT"
-    },
-    {
-       "id":{
-          "hex":"000016",
-          "length":3
-       },
-       "name":"Opcode Systems"
-    },
-    {
-       "id":{
-          "hex":"000017",
-          "length":3
-       },
-       "name":"Rane"
-    },
-    {
-       "id":{
-          "hex":"000018",
-          "length":3
-       },
-       "name":"Anadi Electronique"
-    },
-    {
-       "id":{
-          "hex":"000019",
-          "length":3
-       },
-       "name":"KMX"
-    },
-    {
-       "id":{
-          "hex":"00001a",
-          "length":3
-       },
-       "name":"Allen & Heath Brenell"
-    },
-    {
-       "id":{
-          "hex":"00001b",
-          "length":3
-       },
-       "name":"Peavey Electronics"
-    },
-    {
-       "id":{
-          "hex":"00001c",
-          "length":3
-       },
-       "name":"360 Systems"
-    },
-    {
-       "id":{
-          "hex":"00001d",
-          "length":3
-       },
-       "name":"Spectrum Design and Development"
-    },
-    {
-       "id":{
-          "hex":"00001e",
-          "length":3
-       },
-       "name":"Marquis Music"
-    },
-    {
-       "id":{
-          "hex":"00001f",
-          "length":3
-       },
-       "name":"Zeta Systems"
-    },
-    {
-       "id":{
-          "hex":"000020",
-          "length":3
-       },
-       "name":"Axxes"
-    },
-    {
-       "id":{
-          "hex":"000021",
-          "length":3
-       },
-       "name":"Orban"
-    },
-    {
-       "id":{
-          "hex":"000022",
-          "length":3
-       },
-       "name":"Indian Valley"
-    },
-    {
-       "id":{
-          "hex":"000023",
-          "length":3
-       },
-       "name":"Triton"
-    },
-    {
-       "id":{
-          "hex":"000024",
-          "length":3
-       },
-       "name":"KTI"
-    },
-    {
-       "id":{
-          "hex":"000025",
-          "length":3
-       },
-       "name":"Breakaway Technologies"
-    },
-    {
-       "id":{
-          "hex":"000026",
-          "length":3
-       },
-       "name":"Leprecon"
-    },
-    {
-       "id":{
-          "hex":"000027",
-          "length":3
-       },
-       "name":"Harrison Systems"
-    },
-    {
-       "id":{
-          "hex":"000028",
-          "length":3
-       },
-       "name":"Future Lab"
-    },
-    {
-       "id":{
-          "hex":"000029",
-          "length":3
-       },
-       "name":"Rocktron"
-    },
-    {
-       "id":{
-          "hex":"00002a",
-          "length":3
-       },
-       "name":"PianoDisc"
-    },
-    {
-       "id":{
-          "hex":"00002b",
-          "length":3
-       },
-       "name":"Cannon"
-    },
-    {
-       "id":{
-          "hex":"00002c",
-          "length":3
-       },
-       "name":"Reserved"
-    },
-    {
-       "id":{
-          "hex":"00002d",
-          "length":3
-       },
-       "name":"Rodgers Instrument"
-    },
-    {
-       "id":{
-          "hex":"00002e",
-          "length":3
-       },
-       "name":"Blue Sky Logic"
-    },
-    {
-       "id":{
-          "hex":"00002f",
-          "length":3
-       },
-       "name":"Encore Electronics"
-    },
-    {
-       "id":{
-          "hex":"000030",
-          "length":3
-       },
-       "name":"Uptown"
-    },
-    {
-       "id":{
-          "hex":"000031",
-          "length":3
-       },
-       "name":"Voce"
-    },
-    {
-       "id":{
-          "hex":"000032",
-          "length":3
-       },
-       "name":"CTI Audio"
-    },
-    {
-       "id":{
-          "hex":"000033",
-          "length":3
-       },
-       "name":"S3"
-    },
-    {
-       "id":{
-          "hex":"000034",
-          "length":3
-       },
-       "name":"Broderbund"
-    },
-    {
-       "id":{
-          "hex":"000035",
-          "length":3
-       },
-       "name":"Allen Organ Co."
-    },
-    {
-       "id":{
-          "hex":"000036",
-          "length":3
-       },
-       "name":"Reserved"
-    },
-    {
-       "id":{
-          "hex":"000037",
-          "length":3
-       },
-       "name":"Music Quest"
-    },
-    {
-       "id":{
-          "hex":"000038",
-          "length":3
-       },
-       "name":"Aphex"
-    },
-    {
-       "id":{
-          "hex":"000039",
-          "length":3
-       },
-       "name":"Gallien Krueger"
-    },
-    {
-       "id":{
-          "hex":"00003a",
-          "length":3
-       },
-       "name":"IBM"
-    },
-    {
-       "id":{
-          "hex":"00003b",
-          "length":3
-       },
-       "name":"Mark Of The Unicorn"
-    },
-    {
-       "id":{
-          "hex":"00003c",
-          "length":3
-       },
-       "name":"Hotz"
-    },
-    {
-       "id":{
-          "hex":"00003d",
-          "length":3
-       },
-       "name":"ETA Lighting"
-    },
-    {
-       "id":{
-          "hex":"00003e",
-          "length":3
-       },
-       "name":"NSI"
-    },
-    {
-       "id":{
-          "hex":"00003f",
-          "length":3
-       },
-       "name":"Ad Lib"
-    },
-    {
-       "id":{
-          "hex":"000040",
-          "length":3
-       },
-       "name":"Richmond Sound Design"
-    },
-    {
-       "id":{
-          "hex":"000041",
-          "length":3
-       },
-       "name":"Microsoft"
-    },
-    {
-       "id":{
-          "hex":"000042",
-          "length":3
-       },
-       "name":"Mindscape"
-    },
-    {
-       "id":{
-          "hex":"000043",
-          "length":3
-       },
-       "name":"Russ Jones Marketing"
-    },
-    {
-       "id":{
-          "hex":"000044",
-          "length":3
-       },
-       "name":"Intone"
-    },
-    {
-       "id":{
-          "hex":"000045",
-          "length":3
-       },
-       "name":"Advanced Remote Technologies"
-    },
-    {
-       "id":{
-          "hex":"000046",
-          "length":3
-       },
-       "name":"White Instruments"
-    },
-    {
-       "id":{
-          "hex":"000047",
-          "length":3
-       },
-       "name":"GT Electronics"
-    },
-    {
-       "id":{
-          "hex":"000048",
-          "length":3
-       },
-       "name":"Pacific Research & Engineering"
-    },
-    {
-       "id":{
-          "hex":"000049",
-          "length":3
-       },
-       "name":"Timeline Vista"
-    },
-    {
-       "id":{
-          "hex":"00004a",
-          "length":3
-       },
-       "name":"Mesa Boogie"
-    },
-    {
-       "id":{
-          "hex":"00004b",
-          "length":3
-       },
-       "name":"FSLI"
-    },
-    {
-       "id":{
-          "hex":"00004c",
-          "length":3
-       },
-       "name":"Sequoia Development"
-    },
-    {
-       "id":{
-          "hex":"00004d",
-          "length":3
-       },
-       "name":"Studio Electronics"
-    },
-    {
-       "id":{
-          "hex":"00004e",
-          "length":3
-       },
-       "name":"Euphonix"
-    },
-    {
-       "id":{
-          "hex":"00004f",
-          "length":3
-       },
-       "name":"InterMIDI"
-    },
-    {
-       "id":{
-          "hex":"000050",
-          "length":3
-       },
-       "name":"MIDI Solutions"
-    },
-    {
-       "id":{
-          "hex":"000051",
-          "length":3
-       },
-       "name":"3DO Company"
-    },
-    {
-       "id":{
-          "hex":"000052",
-          "length":3
-       },
-       "name":"Lightwave Research"
-    },
-    {
-       "id":{
-          "hex":"000053",
-          "length":3
-       },
-       "name":"Micro-W"
-    },
-    {
-       "id":{
-          "hex":"000054",
-          "length":3
-       },
-       "name":"Spectral Synthesis"
-    },
-    {
-       "id":{
-          "hex":"000055",
-          "length":3
-       },
-       "name":"Lone Wolf"
-    },
-    {
-       "id":{
-          "hex":"000056",
-          "length":3
-       },
-       "name":"Studio Technologies"
-    },
-    {
-       "id":{
-          "hex":"000057",
-          "length":3
-       },
-       "name":"Peterson Electro-Musical Product"
-    },
-    {
-       "id":{
-          "hex":"000058",
-          "length":3
-       },
-       "name":"Atari"
-    },
-    {
-       "id":{
-          "hex":"000059",
-          "length":3
-       },
-       "name":"Marion Systems"
-    },
-    {
-       "id":{
-          "hex":"00005a",
-          "length":3
-       },
-       "name":"Design Event"
-    },
-    {
-       "id":{
-          "hex":"00005b",
-          "length":3
-       },
-       "name":"Winjammer Software"
-    },
-    {
-       "id":{
-          "hex":"00005c",
-          "length":3
-       },
-       "name":"AT&T"
-    },
-    {
-       "id":{
-          "hex":"00005d",
-          "length":3
-       },
-       "name":"Reserved"
-    },
-    {
-       "id":{
-          "hex":"00005e",
-          "length":3
-       },
-       "name":"Symetrix"
-    },
-    {
-       "id":{
-          "hex":"00005f",
-          "length":3
-       },
-       "name":"MIDI the World"
-    },
-    {
-       "id":{
-          "hex":"000060",
-          "length":3
-       },
-       "name":"Spatializer"
-    },
-    {
-       "id":{
-          "hex":"000061",
-          "length":3
-       },
-       "name":"Micros 'N MIDI"
-    },
-    {
-       "id":{
-          "hex":"000062",
-          "length":3
-       },
-       "name":"Accordians International"
-    },
-    {
-       "id":{
-          "hex":"000063",
-          "length":3
-       },
-       "name":"EuPhonics"
-    },
-    {
-       "id":{
-          "hex":"000064",
-          "length":3
-       },
-       "name":"Musonix"
-    },
-    {
-       "id":{
-          "hex":"000065",
-          "length":3
-       },
-       "name":"Turtle Beach Systems"
-    },
-    {
-       "id":{
-          "hex":"000066",
-          "length":3
-       },
-       "name":"Mackie"
-    },
-    {
-       "id":{
-          "hex":"000067",
-          "length":3
-       },
-       "name":"Compuserve"
-    },
-    {
-       "id":{
-          "hex":"000068",
-          "length":3
-       },
-       "name":"BEC Technologies"
-    },
-    {
-       "id":{
-          "hex":"000069",
-          "length":3
-       },
-       "name":"QRS Music"
-    },
-    {
-       "id":{
-          "hex":"00006a",
-          "length":3
-       },
-       "name":"P.G. Music"
-    },
-    {
-       "id":{
-          "hex":"00006b",
-          "length":3
-       },
-       "name":"Sierra Semiconductor"
-    },
-    {
-       "id":{
-          "hex":"00006c",
-          "length":3
-       },
-       "name":"EpiGraf"
-    },
-    {
-       "id":{
-          "hex":"00006d",
-          "length":3
-       },
-       "name":"Electronics Diversified"
-    },
-    {
-       "id":{
-          "hex":"00006e",
-          "length":3
-       },
-       "name":"Tune 1000"
-    },
-    {
-       "id":{
-          "hex":"00006f",
-          "length":3
-       },
-       "name":"Advanced Micro Devices"
-    },
-    {
-       "id":{
-          "hex":"000070",
-          "length":3
-       },
-       "name":"Mediamation"
-    },
-    {
-       "id":{
-          "hex":"000071",
-          "length":3
-       },
-       "name":"Sabine"
-    },
-    {
-       "id":{
-          "hex":"000072",
-          "length":3
-       },
-       "name":"Woog Labs"
-    },
-    {
-       "id":{
-          "hex":"000073",
-          "length":3
-       },
-       "name":"Micropolis"
-    },
-    {
-       "id":{
-          "hex":"000074",
-          "length":3
-       },
-       "name":"Ta Horng Musical Instrument"
-    },
-    {
-       "id":{
-          "hex":"000075",
-          "length":3
-       },
-       "name":"e-Tek Labs"
-    },
-    {
-       "id":{
-          "hex":"000076",
-          "length":3
-       },
-       "name":"Electro-Voice"
-    },
-    {
-       "id":{
-          "hex":"000077",
-          "length":3
-       },
-       "name":"Midisoft"
-    },
-    {
-       "id":{
-          "hex":"000078",
-          "length":3
-       },
-       "name":"QSound Labs"
-    },
-    {
-       "id":{
-          "hex":"000079",
-          "length":3
-       },
-       "name":"Westrex"
-    },
-    {
-       "id":{
-          "hex":"00007a",
-          "length":3
-       },
-       "name":"Nvidia"
-    },
-    {
-       "id":{
-          "hex":"00007b",
-          "length":3
-       },
-       "name":"ESS Technology"
-    },
-    {
-       "id":{
-          "hex":"00007c",
-          "length":3
-       },
-       "name":"Media Trix Peripherals"
-    },
-    {
-       "id":{
-          "hex":"00007d",
-          "length":3
-       },
-       "name":"Brooktree"
-    },
-    {
-       "id":{
-          "hex":"00007e",
-          "length":3
-       },
-       "name":"Otari"
-    },
-    {
-       "id":{
-          "hex":"00007f",
-          "length":3
-       },
-       "name":"Key Electronics"
-    },
-    {
-       "id":{
-          "hex":"000100",
-          "length":3
-       },
-       "name":"Shure"
-    },
-    {
-       "id":{
-          "hex":"000101",
-          "length":3
-       },
-       "name":"AuraSound"
-    },
-    {
-       "id":{
-          "hex":"000102",
-          "length":3
-       },
-       "name":"Crystal Semiconductor"
-    },
-    {
-       "id":{
-          "hex":"000103",
-          "length":3
-       },
-       "name":"Conexant"
-    },
-    {
-       "id":{
-          "hex":"000104",
-          "length":3
-       },
-       "name":"Silicon Graphics"
-    },
-    {
-       "id":{
-          "hex":"000105",
-          "length":3
-       },
-       "name":"M-Audio"
-    },
-    {
-       "id":{
-          "hex":"000106",
-          "length":3
-       },
-       "name":"PreSonus"
-    },
-    {
-       "id":{
-          "hex":"000108",
-          "length":3
-       },
-       "name":"Topaz Enterprises"
-    },
-    {
-       "id":{
-          "hex":"000109",
-          "length":3
-       },
-       "name":"Cast Lighting"
-    },
-    {
-       "id":{
-          "hex":"00010a",
-          "length":3
-       },
-       "name":"Microsoft"
-    },
-    {
-       "id":{
-          "hex":"00010b",
-          "length":3
-       },
-       "name":"Sonic Foundry"
-    },
-    {
-       "id":{
-          "hex":"00010c",
-          "length":3
-       },
-       "name":"Line 6"
-    },
-    {
-       "id":{
-          "hex":"00010d",
-          "length":3
-       },
-       "name":"Beatnik"
-    },
-    {
-       "id":{
-          "hex":"00010e",
-          "length":3
-       },
-       "name":"Van Koevering"
-    },
-    {
-       "id":{
-          "hex":"00010f",
-          "length":3
-       },
-       "name":"Altech Systems"
-    },
-    {
-       "id":{
-          "hex":"000110",
-          "length":3
-       },
-       "name":"S & S Research"
-    },
-    {
-       "id":{
-          "hex":"000111",
-          "length":3
-       },
-       "name":"VLSI Technology"
-    },
-    {
-       "id":{
-          "hex":"000112",
-          "length":3
-       },
-       "name":"Chromatic Research"
-    },
-    {
-       "id":{
-          "hex":"000113",
-          "length":3
-       },
-       "name":"Sapphire"
-    },
-    {
-       "id":{
-          "hex":"000114",
-          "length":3
-       },
-       "name":"IDRC"
-    },
-    {
-       "id":{
-          "hex":"000115",
-          "length":3
-       },
-       "name":"Justonic Tuning"
-    },
-    {
-       "id":{
-          "hex":"000116",
-          "length":3
-       },
-       "name":"TorComp Research"
-    },
-    {
-       "id":{
-          "hex":"000117",
-          "length":3
-       },
-       "name":"Newtek"
-    },
-    {
-       "id":{
-          "hex":"000118",
-          "length":3
-       },
-       "name":"Sound Sculpture"
-    },
-    {
-       "id":{
-          "hex":"000119",
-          "length":3
-       },
-       "name":"Walker Technical"
-    },
-    {
-       "id":{
-          "hex":"00011a",
-          "length":3
-       },
-       "name":"Digital Harmony"
-    },
-    {
-       "id":{
-          "hex":"00011b",
-          "length":3
-       },
-       "name":"InVision Interactive"
-    },
-    {
-       "id":{
-          "hex":"00011c",
-          "length":3
-       },
-       "name":"T-Square Design"
-    },
-    {
-       "id":{
-          "hex":"00011d",
-          "length":3
-       },
-       "name":"Nemesys Music Technology"
-    },
-    {
-       "id":{
-          "hex":"00011e",
-          "length":3
-       },
-       "name":"DBX Professional"
-    },
-    {
-       "id":{
-          "hex":"00011f",
-          "length":3
-       },
-       "name":"Syndyne"
-    },
-    {
-       "id":{
-          "hex":"000120",
-          "length":3
-       },
-       "name":"Bitheadz"
-    },
-    {
-       "id":{
-          "hex":"000121",
-          "length":3
-       },
-       "name":"Cakewalk Music Software"
-    },
-    {
-       "id":{
-          "hex":"000122",
-          "length":3
-       },
-       "name":"Analog Devices"
-    },
-    {
-       "id":{
-          "hex":"000123",
-          "length":3
-       },
-       "name":"National Semiconductor"
-    },
-    {
-       "id":{
-          "hex":"000124",
-          "length":3
-       },
-       "name":"Boom Theory"
-    },
-    {
-       "id":{
-          "hex":"000125",
-          "length":3
-       },
-       "name":"Virtual DSP"
-    },
-    {
-       "id":{
-          "hex":"000126",
-          "length":3
-       },
-       "name":"Antares Systems"
-    },
-    {
-       "id":{
-          "hex":"000127",
-          "length":3
-       },
-       "name":"Angel Software"
-    },
-    {
-       "id":{
-          "hex":"000128",
-          "length":3
-       },
-       "name":"St Louis Music"
-    },
-    {
-       "id":{
-          "hex":"000129",
-          "length":3
-       },
-       "name":"Passport Music Software"
-    },
-    {
-       "id":{
-          "hex":"00012a",
-          "length":3
-       },
-       "name":"Ashley Audio"
-    },
-    {
-       "id":{
-          "hex":"00012b",
-          "length":3
-       },
-       "name":"Vari-Lite"
-    },
-    {
-       "id":{
-          "hex":"00012c",
-          "length":3
-       },
-       "name":"Summit Audio"
-    },
-    {
-       "id":{
-          "hex":"00012d",
-          "length":3
-       },
-       "name":"Aureal Semiconductor"
-    },
-    {
-       "id":{
-          "hex":"00012e",
-          "length":3
-       },
-       "name":"SeaSound"
-    },
-    {
-       "id":{
-          "hex":"00012f",
-          "length":3
-       },
-       "name":"U.S. Robotics"
-    },
-    {
-       "id":{
-          "hex":"000130",
-          "length":3
-       },
-       "name":"Aurisis Research"
-    },
-    {
-       "id":{
-          "hex":"000131",
-          "length":3
-       },
-       "name":"Nearfield Research"
-    },
-    {
-       "id":{
-          "hex":"000132",
-          "length":3
-       },
-       "name":"FM7"
-    },
-    {
-       "id":{
-          "hex":"000133",
-          "length":3
-       },
-       "name":"Swivel Systems"
-    },
-    {
-       "id":{
-          "hex":"000134",
-          "length":3
-       },
-       "name":"Hyperactive Audio Systems"
-    },
-    {
-       "id":{
-          "hex":"000135",
-          "length":3
-       },
-       "name":"MidiLite"
-    },
-    {
-       "id":{
-          "hex":"000136",
-          "length":3
-       },
-       "name":"Radikal Technologies"
-    },
-    {
-       "id":{
-          "hex":"000137",
-          "length":3
-       },
-       "name":"Roger Linn Design"
-    },
-    {
-       "id":{
-          "hex":"000138",
-          "length":3
-       },
-       "name":"TC-Helicon Vocal Technologies"
-    },
-    {
-       "id":{
-          "hex":"000139",
-          "length":3
-       },
-       "name":"Event Electronics"
-    },
-    {
-       "id":{
-          "hex":"00013a",
-          "length":3
-       },
-       "name":"Sonic Network"
-    },
-    {
-       "id":{
-          "hex":"00013b",
-          "length":3
-       },
-       "name":"Realtime Music Solutions"
-    },
-    {
-       "id":{
-          "hex":"00013c",
-          "length":3
-       },
-       "name":"Apogee Digital"
-    },
-    {
-       "id":{
-          "hex":"00013d",
-          "length":3
-       },
-       "name":"Classical Organs"
-    },
-    {
-       "id":{
-          "hex":"00013e",
-          "length":3
-       },
-       "name":"Microtools"
-    },
-    {
-       "id":{
-          "hex":"00013f",
-          "length":3
-       },
-       "name":"Numark Industries"
-    },
-    {
-       "id":{
-          "hex":"000140",
-          "length":3
-       },
-       "name":"Frontier Design Group"
-    },
-    {
-       "id":{
-          "hex":"000141",
-          "length":3
-       },
-       "name":"Recordare"
-    },
-    {
-       "id":{
-          "hex":"000142",
-          "length":3
-       },
-       "name":"Starr Labs"
-    },
-    {
-       "id":{
-          "hex":"000143",
-          "length":3
-       },
-       "name":"Voyager Sound"
-    },
-    {
-       "id":{
-          "hex":"000144",
-          "length":3
-       },
-       "name":"Manifold Labs"
-    },
-    {
-       "id":{
-          "hex":"000145",
-          "length":3
-       },
-       "name":"Aviom"
-    },
-    {
-       "id":{
-          "hex":"000146",
-          "length":3
-       },
-       "name":"Mixmeister Technology"
-    },
-    {
-       "id":{
-          "hex":"000147",
-          "length":3
-       },
-       "name":"Notation Software"
-    },
-    {
-       "id":{
-          "hex":"000148",
-          "length":3
-       },
-       "name":"Mercurial Communications"
-    },
-    {
-       "id":{
-          "hex":"000149",
-          "length":3
-       },
-       "name":"Wave Arts"
-    },
-    {
-       "id":{
-          "hex":"00014a",
-          "length":3
-       },
-       "name":"Logic Sequencing Devices"
-    },
-    {
-       "id":{
-          "hex":"00014b",
-          "length":3
-       },
-       "name":"Axess Electronics"
-    },
-    {
-       "id":{
-          "hex":"00014c",
-          "length":3
-       },
-       "name":"Muse Research"
-    },
-    {
-       "id":{
-          "hex":"00014d",
-          "length":3
-       },
-       "name":"Open Labs"
-    },
-    {
-       "id":{
-          "hex":"00014e",
-          "length":3
-       },
-       "name":"Guillemot"
-    },
-    {
-       "id":{
-          "hex":"00014f",
-          "length":3
-       },
-       "name":"Samson Technologies"
-    },
-    {
-       "id":{
-          "hex":"000150",
-          "length":3
-       },
-       "name":"Electronic Theatre Controls"
-    },
-    {
-       "id":{
-          "hex":"000151",
-          "length":3
-       },
-       "name":"Blackberry"
-    },
-    {
-       "id":{
-          "hex":"000152",
-          "length":3
-       },
-       "name":"Mobileer"
-    },
-    {
-       "id":{
-          "hex":"000153",
-          "length":3
-       },
-       "name":"Synthogy"
-    },
-    {
-       "id":{
-          "hex":"000154",
-          "length":3
-       },
-       "name":"Lynx Studio Technology"
-    },
-    {
-       "id":{
-          "hex":"000155",
-          "length":3
-       },
-       "name":"Damage Control Engineering"
-    },
-    {
-       "id":{
-          "hex":"000156",
-          "length":3
-       },
-       "name":"Yost Engineering"
-    },
-    {
-       "id":{
-          "hex":"000157",
-          "length":3
-       },
-       "name":"Brooks & Forsman Designs"
-    },
-    {
-       "id":{
-          "hex":"000158",
-          "length":3
-       },
-       "name":"Infinite Response"
-    },
-    {
-       "id":{
-          "hex":"000159",
-          "length":3
-       },
-       "name":"Garritan"
-    },
-    {
-       "id":{
-          "hex":"00015a",
-          "length":3
-       },
-       "name":"Plogue Art et Technologie"
-    },
-    {
-       "id":{
-          "hex":"00015b",
-          "length":3
-       },
-       "name":"RJM Music Technology"
-    },
-    {
-       "id":{
-          "hex":"00015c",
-          "length":3
-       },
-       "name":"Custom Solutions Software"
-    },
-    {
-       "id":{
-          "hex":"00015d",
-          "length":3
-       },
-       "name":"Sonarcana"
-    },
-    {
-       "id":{
-          "hex":"00015e",
-          "length":3
-       },
-       "name":"Centrance"
-    },
-    {
-       "id":{
-          "hex":"00015f",
-          "length":3
-       },
-       "name":"Kesumo"
-    },
-    {
-       "id":{
-          "hex":"000160",
-          "length":3
-       },
-       "name":"Stanton"
-    },
-    {
-       "id":{
-          "hex":"000161",
-          "length":3
-       },
-       "name":"Livid"
-    },
-    {
-       "id":{
-          "hex":"000162",
-          "length":3
-       },
-       "name":"First Act"
-    },
-    {
-       "id":{
-          "hex":"000163",
-          "length":3
-       },
-       "name":"Pygraphics"
-    },
-    {
-       "id":{
-          "hex":"000164",
-          "length":3
-       },
-       "name":"Panadigm Innovations"
-    },
-    {
-       "id":{
-          "hex":"000165",
-          "length":3
-       },
-       "name":"Avedis Zildjian"
-    },
-    {
-       "id":{
-          "hex":"000166",
-          "length":3
-       },
-       "name":"Auvital Music"
-    },
-    {
-       "id":{
-          "hex":"000167",
-          "length":3
-       },
-       "name":"You Rock Guitar"
-    },
-    {
-       "id":{
-          "hex":"000168",
-          "length":3
-       },
-       "name":"Chris Grigg Designs"
-    },
-    {
-       "id":{
-          "hex":"000169",
-          "length":3
-       },
-       "name":"Slate Digital"
-    },
-    {
-       "id":{
-          "hex":"00016a",
-          "length":3
-       },
-       "name":"Mixware"
-    },
-    {
-       "id":{
-          "hex":"00016b",
-          "length":3
-       },
-       "name":"Social Entropy"
-    },
-    {
-       "id":{
-          "hex":"00016c",
-          "length":3
-       },
-       "name":"Source Audio"
-    },
-    {
-       "id":{
-          "hex":"00016d",
-          "length":3
-       },
-       "name":"Ernie Ball"
-    },
-    {
-       "id":{
-          "hex":"00016e",
-          "length":3
-       },
-       "name":"Fishman"
-    },
-    {
-       "id":{
-          "hex":"00016f",
-          "length":3
-       },
-       "name":"Custom Audio Electronics"
-    },
-    {
-       "id":{
-          "hex":"000170",
-          "length":3
-       },
-       "name":"American Audio"
-    },
-    {
-       "id":{
-          "hex":"000171",
-          "length":3
-       },
-       "name":"Mega Lite"
-    },
-    {
-       "id":{
-          "hex":"000172",
-          "length":3
-       },
-       "name":"Kilpatrick Audio"
-    },
-    {
-       "id":{
-          "hex":"000173",
-          "length":3
-       },
-       "name":"iConnectivity"
-    },
-    {
-       "id":{
-          "hex":"000174",
-          "length":3
-       },
-       "name":"Fractal Audio"
-    },
-    {
-       "id":{
-          "hex":"000175",
-          "length":3
-       },
-       "name":"NetLogic Microsystems"
-    },
-    {
-       "id":{
-          "hex":"000176",
-          "length":3
-       },
-       "name":"Music Computing"
-    },
-    {
-       "id":{
-          "hex":"000177",
-          "length":3
-       },
-       "name":"Nektar Technology"
-    },
-    {
-       "id":{
-          "hex":"000178",
-          "length":3
-       },
-       "name":"Zenph Sound Innovations"
-    },
-    {
-       "id":{
-          "hex":"000179",
-          "length":3
-       },
-       "name":"DJ TechTools"
-    },
-    {
-       "id":{
-          "hex":"00017a",
-          "length":3
-       },
-       "name":"Rezonance Labs"
-    },
-    {
-       "id":{
-          "hex":"00017b",
-          "length":3
-       },
-       "name":"Decibel Eleven"
-    },
-    {
-       "id":{
-          "hex":"00017c",
-          "length":3
-       },
-       "name":"CNMAT"
-    },
-    {
-       "id":{
-          "hex":"00017d",
-          "length":3
-       },
-       "name":"Media Overkill"
-    },
-    {
-       "id":{
-          "hex":"00017e",
-          "length":3
-       },
-       "name":"Confusion Studios"
-    },
-    {
-       "id":{
-          "hex":"00017f",
-          "length":3
-       },
-       "name":"moForte"
-    },
-    {
-       "id":{
-          "hex":"000200",
-          "length":3
-       },
-       "name":"Miselu"
-    },
-    {
-       "id":{
-          "hex":"000201",
-          "length":3
-       },
-       "name":"Amelia's Compass"
-    },
-    {
-       "id":{
-          "hex":"000202",
-          "length":3
-       },
-       "name":"Zivix"
-    },
-    {
-       "id":{
-          "hex":"000203",
-          "length":3
-       },
-       "name":"Artiphon"
-    },
-    {
-       "id":{
-          "hex":"000204",
-          "length":3
-       },
-       "name":"Synclavier Digital"
-    },
-    {
-       "id":{
-          "hex":"000205",
-          "length":3
-       },
-       "name":"Light & Sound Control Devices"
-    },
-    {
-       "id":{
-          "hex":"000206",
-          "length":3
-       },
-       "name":"Retronyms"
-    },
-    {
-       "id":{
-          "hex":"000207",
-          "length":3
-       },
-       "name":"JS Technologies"
-    },
-    {
-       "id":{
-          "hex":"000208",
-          "length":3
-       },
-       "name":"Quicco Sound"
-    },
-    {
-       "id":{
-          "hex":"000209",
-          "length":3
-       },
-       "name":"A-Designs Audio"
-    },
-    {
-       "id":{
-          "hex":"00020a",
-          "length":3
-       },
-       "name":"McCarthy Music"
-    },
-    {
-       "id":{
-          "hex":"00020b",
-          "length":3
-       },
-       "name":"Denon DJ"
-    },
-    {
-       "id":{
-          "hex":"00020c",
-          "length":3
-       },
-       "name":"Keith Robert Murray"
-    },
-    {
-       "id":{
-          "hex":"00020d",
-          "length":3
-       },
-       "name":"Google"
-    },
-    {
-       "id":{
-          "hex":"00020e",
-          "length":3
-       },
-       "name":"ISP Technologies"
-    },
-    {
-       "id":{
-          "hex":"00020f",
-          "length":3
-       },
-       "name":"Abstrakt Instruments"
-    },
-    {
-       "id":{
-          "hex":"000210",
-          "length":3
-       },
-       "name":"Meris"
-    },
-    {
-       "id":{
-          "hex":"000211",
-          "length":3
-       },
-       "name":"Sensorpoint"
-    },
-    {
-       "id":{
-          "hex":"000212",
-          "length":3
-       },
-       "name":"Hi-Z Labs"
-    },
-    {
-       "id":{
-          "hex":"000213",
-          "length":3
-       },
-       "name":"Imitone"
-    },
-    {
-       "id":{
-          "hex":"000214",
-          "length":3
-       },
-       "name":"Intellijel Designs"
-    },
-    {
-       "id":{
-          "hex":"000215",
-          "length":3
-       },
-       "name":"Dasz Instruments"
-    },
-    {
-       "id":{
-          "hex":"000216",
-          "length":3
-       },
-       "name":"Remidi"
-    },
-    {
-       "id":{
-          "hex":"000217",
-          "length":3
-       },
-       "name":"Disaster Area Designs"
-    },
-    {
-       "id":{
-          "hex":"000218",
-          "length":3
-       },
-       "name":"Universal Audio"
-    },
-    {
-       "id":{
-          "hex":"000219",
-          "length":3
-       },
-       "name":"Carter Duncan"
-    },
-    {
-       "id":{
-          "hex":"00021a",
-          "length":3
-       },
-       "name":"Essential Technology"
-    },
-    {
-       "id":{
-          "hex":"00021b",
-          "length":3
-       },
-       "name":"Cantux Research"
-    },
-    {
-       "id":{
-          "hex":"00021c",
-          "length":3
-       },
-       "name":"Hummel Technologies"
-    },
-    {
-       "id":{
-          "hex":"00021d",
-          "length":3
-       },
-       "name":"Sensel"
-    },
-    {
-       "id":{
-          "hex":"00021e",
-          "length":3
-       },
-       "name":"DBML Group"
-    },
-    {
-       "id":{
-          "hex":"00021f",
-          "length":3
-       },
-       "name":"Madrona Labs"
-    },
-    {
-       "id":{
-          "hex":"000220",
-          "length":3
-       },
-       "name":"Mesa Boogie"
-    },
-    {
-       "id":{
-          "hex":"000221",
-          "length":3
-       },
-       "name":"Effigy Labs"
-    },
-    {
-       "id":{
-          "hex":"000222",
-          "length":3
-       },
-       "name":"MK2 Image"
-    },
-    {
-       "id":{
-          "hex":"000223",
-          "length":3
-       },
-       "name":"Red Panda"
-    },
-    {
-       "id":{
-          "hex":"000224",
-          "length":3
-       },
-       "name":"OnSong"
-    },
-    {
-       "id":{
-          "hex":"000225",
-          "length":3
-       },
-       "name":"Jamboxx"
-    },
-    {
-       "id":{
-          "hex":"000226",
-          "length":3
-       },
-       "name":"Electro-Harmonix"
-    },
-    {
-       "id":{
-          "hex":"000227",
-          "length":3
-       },
-       "name":"RnD64"
-    },
-    {
-       "id":{
-          "hex":"000228",
-          "length":3
-       },
-       "name":"Neunaber Technology"
-    },
-    {
-       "id":{
-          "hex":"000229",
-          "length":3
-       },
-       "name":"Kaom"
-    },
-    {
-       "id":{
-          "hex":"00022a",
-          "length":3
-       },
-       "name":"Hallowell"
-    },
-    {
-       "id":{
-          "hex":"00022b",
-          "length":3
-       },
-       "name":"Sound Devices"
-    },
-    {
-       "id":{
-          "hex":"00022c",
-          "length":3
-       },
-       "name":"Spectrasonics"
-    },
-    {
-       "id":{
-          "hex":"00022d",
-          "length":3
-       },
-       "name":"Second Sound"
-    },
-    {
-       "id":{
-          "hex":"00022e",
-          "length":3
-       },
-       "name":"8eo"
-    },
-    {
-       "id":{
-          "hex":"00022f",
-          "length":3
-       },
-       "name":"VIDVOX"
-    },
-    {
-       "id":{
-          "hex":"000230",
-          "length":3
-       },
-       "name":"Matthews Effects"
-    },
-    {
-       "id":{
-          "hex":"002000",
-          "length":3
-       },
-       "name":"Dream SAS"
-    },
-    {
-       "id":{
-          "hex":"002001",
-          "length":3
-       },
-       "name":"Strand Lighting"
-    },
-    {
-       "id":{
-          "hex":"002002",
-          "length":3
-       },
-       "name":"Amek Div of Harman Industries"
-    },
-    {
-       "id":{
-          "hex":"002003",
-          "length":3
-       },
-       "name":"Casa Di Risparmio Di Loreto"
-    },
-    {
-       "id":{
-          "hex":"002004",
-          "length":3
-       },
-       "name":"Böhm Elektronik"
-    },
-    {
-       "id":{
-          "hex":"002005",
-          "length":3
-       },
-       "name":"Syntec Digital Audio"
-    },
-    {
-       "id":{
-          "hex":"002006",
-          "length":3
-       },
-       "name":"Trident Audio Developments"
-    },
-    {
-       "id":{
-          "hex":"002007",
-          "length":3
-       },
-       "name":"Real World Studio"
-    },
-    {
-       "id":{
-          "hex":"002008",
-          "length":3
-       },
-       "name":"M-Audio"
-    },
-    {
-       "id":{
-          "hex":"002009",
-          "length":3
-       },
-       "name":"Yes Technology"
-    },
-    {
-       "id":{
-          "hex":"00200a",
-          "length":3
-       },
-       "name":"Audiomatica"
-    },
-    {
-       "id":{
-          "hex":"00200b",
-          "length":3
-       },
-       "name":"Bontempi"
-    },
-    {
-       "id":{
-          "hex":"00200c",
-          "length":3
-       },
-       "name":"F.B.T. Elettronica"
-    },
-    {
-       "id":{
-          "hex":"00200d",
-          "length":3
-       },
-       "name":"MidiTemp"
-    },
-    {
-       "id":{
-          "hex":"00200e",
-          "length":3
-       },
-       "name":"LA Audio"
-    },
-    {
-       "id":{
-          "hex":"00200f",
-          "length":3
-       },
-       "name":"Zero 88 Lighting"
-    },
-    {
-       "id":{
-          "hex":"002010",
-          "length":3
-       },
-       "name":"Micon Audio Electronics"
-    },
-    {
-       "id":{
-          "hex":"002011",
-          "length":3
-       },
-       "name":"Forefront Technology"
-    },
-    {
-       "id":{
-          "hex":"002012",
-          "length":3
-       },
-       "name":"Studio Audio and Video"
-    },
-    {
-       "id":{
-          "hex":"002013",
-          "length":3
-       },
-       "name":"Kenton Electronics"
-    },
-    {
-       "id":{
-          "hex":"002014",
-          "length":3
-       },
-       "name":"Celco"
-    },
-    {
-       "id":{
-          "hex":"002015",
-          "length":3
-       },
-       "name":"ADB"
-    },
-    {
-       "id":{
-          "hex":"002016",
-          "length":3
-       },
-       "name":"Marshall Products"
-    },
-    {
-       "id":{
-          "hex":"002017",
-          "length":3
-       },
-       "name":"DDA"
-    },
-    {
-       "id":{
-          "hex":"002018",
-          "length":3
-       },
-       "name":"BSS Audio"
-    },
-    {
-       "id":{
-          "hex":"002019",
-          "length":3
-       },
-       "name":"MA Lighting Technology"
-    },
-    {
-       "id":{
-          "hex":"00201a",
-          "length":3
-       },
-       "name":"Fatar"
-    },
-    {
-       "id":{
-          "hex":"00201b",
-          "length":3
-       },
-       "name":"QSC Audio Products"
-    },
-    {
-       "id":{
-          "hex":"00201c",
-          "length":3
-       },
-       "name":"Artisan Clasic Organ"
-    },
-    {
-       "id":{
-          "hex":"00201d",
-          "length":3
-       },
-       "name":"Orla"
-    },
-    {
-       "id":{
-          "hex":"00201e",
-          "length":3
-       },
-       "name":"Pinnacle Audio"
-    },
-    {
-       "id":{
-          "hex":"00201f",
-          "length":3
-       },
-       "name":"TC Electronics"
-    },
-    {
-       "id":{
-          "hex":"002020",
-          "length":3
-       },
-       "name":"Doepfer Musikelektronik"
-    },
-    {
-       "id":{
-          "hex":"002021",
-          "length":3
-       },
-       "name":"Creative"
-    },
-    {
-       "id":{
-          "hex":"002022",
-          "length":3
-       },
-       "name":"Seyddo"
-    },
-    {
-       "id":{
-          "hex":"002023",
-          "length":3
-       },
-       "name":"LG Electronics"
-    },
-    {
-       "id":{
-          "hex":"002024",
-          "length":3
-       },
-       "name":"Midisoft"
-    },
-    {
-       "id":{
-          "hex":"002025",
-          "length":3
-       },
-       "name":"Samick"
-    },
-    {
-       "id":{
-          "hex":"002026",
-          "length":3
-       },
-       "name":"Penny and Giles"
-    },
-    {
-       "id":{
-          "hex":"002027",
-          "length":3
-       },
-       "name":"Acorn Computer"
-    },
-    {
-       "id":{
-          "hex":"002028",
-          "length":3
-       },
-       "name":"LSC Electronics"
-    },
-    {
-       "id":{
-          "hex":"002029",
-          "length":3
-       },
-       "name":"Novation"
-    },
-    {
-       "id":{
-          "hex":"00202a",
-          "length":3
-       },
-       "name":"Samkyung Mechatronics"
-    },
-    {
-       "id":{
-          "hex":"00202b",
-          "length":3
-       },
-       "name":"Medeli Electronics"
-    },
-    {
-       "id":{
-          "hex":"00202c",
-          "length":3
-       },
-       "name":"Charlie Lab"
-    },
-    {
-       "id":{
-          "hex":"00202d",
-          "length":3
-       },
-       "name":"Blue Chip Music Technology"
-    },
-    {
-       "id":{
-          "hex":"00202e",
-          "length":3
-       },
-       "name":"BEE"
-    },
-    {
-       "id":{
-          "hex":"00202f",
-          "length":3
-       },
-       "name":"LG Semicon America"
-    },
-    {
-       "id":{
-          "hex":"002030",
-          "length":3
-       },
-       "name":"TESI"
-    },
-    {
-       "id":{
-          "hex":"002031",
-          "length":3
-       },
-       "name":"EMAGIC"
-    },
-    {
-       "id":{
-          "hex":"002032",
-          "length":3
-       },
-       "name":"Behringer"
-    },
-    {
-       "id":{
-          "hex":"002033",
-          "length":3
-       },
-       "name":"Access Music Electronics"
-    },
-    {
-       "id":{
-          "hex":"002034",
-          "length":3
-       },
-       "name":"Synoptic"
-    },
-    {
-       "id":{
-          "hex":"002035",
-          "length":3
-       },
-       "name":"Hanmesoft"
-    },
-    {
-       "id":{
-          "hex":"002036",
-          "length":3
-       },
-       "name":"Terratec Electronic"
-    },
-    {
-       "id":{
-          "hex":"002037",
-          "length":3
-       },
-       "name":"Proel"
-    },
-    {
-       "id":{
-          "hex":"002038",
-          "length":3
-       },
-       "name":"IBK MIDI"
-    },
-    {
-       "id":{
-          "hex":"002039",
-          "length":3
-       },
-       "name":"IRCAM"
-    },
-    {
-       "id":{
-          "hex":"00203a",
-          "length":3
-       },
-       "name":"Propellerhead Software"
-    },
-    {
-       "id":{
-          "hex":"00203b",
-          "length":3
-       },
-       "name":"Red Sound Systems"
-    },
-    {
-       "id":{
-          "hex":"00203c",
-          "length":3
-       },
-       "name":"Elektron"
-    },
-    {
-       "id":{
-          "hex":"00203d",
-          "length":3
-       },
-       "name":"Sintefex Audio"
-    },
-    {
-       "id":{
-          "hex":"00203e",
-          "length":3
-       },
-       "name":"MAM"
-    },
-    {
-       "id":{
-          "hex":"00203f",
-          "length":3
-       },
-       "name":"Amsaro"
-    },
-    {
-       "id":{
-          "hex":"002040",
-          "length":3
-       },
-       "name":"Lanbox"
-    },
-    {
-       "id":{
-          "hex":"002041",
-          "length":3
-       },
-       "name":"Mode Machines"
-    },
-    {
-       "id":{
-          "hex":"002042",
-          "length":3
-       },
-       "name":"DSP Arts"
-    },
-    {
-       "id":{
-          "hex":"002043",
-          "length":3
-       },
-       "name":"Phil Rees Music Tech"
-    },
-    {
-       "id":{
-          "hex":"002044",
-          "length":3
-       },
-       "name":"Stamer Musikanlagen"
-    },
-    {
-       "id":{
-          "hex":"002045",
-          "length":3
-       },
-       "name":"Musical Muntaner"
-    },
-    {
-       "id":{
-          "hex":"002046",
-          "length":3
-       },
-       "name":"C-Mexx Software"
-    },
-    {
-       "id":{
-          "hex":"002047",
-          "length":3
-       },
-       "name":"Klavis Technologies"
-    },
-    {
-       "id":{
-          "hex":"002048",
-          "length":3
-       },
-       "name":"Noteheads"
-    },
-    {
-       "id":{
-          "hex":"002049",
-          "length":3
-       },
-       "name":"Algorithmix"
-    },
-    {
-       "id":{
-          "hex":"00204a",
-          "length":3
-       },
-       "name":"Skrydstrup R&D"
-    },
-    {
-       "id":{
-          "hex":"00204b",
-          "length":3
-       },
-       "name":"Professional Audio"
-    },
-    {
-       "id":{
-          "hex":"00204c",
-          "length":3
-       },
-       "name":"NewWave Labs"
-    },
-    {
-       "id":{
-          "hex":"00204d",
-          "length":3
-       },
-       "name":"Vermona"
-    },
-    {
-       "id":{
-          "hex":"00204e",
-          "length":3
-       },
-       "name":"Nokia"
-    },
-    {
-       "id":{
-          "hex":"00204f",
-          "length":3
-       },
-       "name":"Wave Idea"
-    },
-    {
-       "id":{
-          "hex":"002050",
-          "length":3
-       },
-       "name":"Hartmann"
-    },
-    {
-       "id":{
-          "hex":"002051",
-          "length":3
-       },
-       "name":"Lion's Tracs"
-    },
-    {
-       "id":{
-          "hex":"002052",
-          "length":3
-       },
-       "name":"Analogue Systems"
-    },
-    {
-       "id":{
-          "hex":"002053",
-          "length":3
-       },
-       "name":"Focal-JMlab"
-    },
-    {
-       "id":{
-          "hex":"002054",
-          "length":3
-       },
-       "name":"Ringway Electronics"
-    },
-    {
-       "id":{
-          "hex":"002055",
-          "length":3
-       },
-       "name":"Faith Technologies"
-    },
-    {
-       "id":{
-          "hex":"002056",
-          "length":3
-       },
-       "name":"Showworks"
-    },
-    {
-       "id":{
-          "hex":"002057",
-          "length":3
-       },
-       "name":"Manikin Electronic"
-    },
-    {
-       "id":{
-          "hex":"002058",
-          "length":3
-       },
-       "name":"1 Come Tech"
-    },
-    {
-       "id":{
-          "hex":"002059",
-          "length":3
-       },
-       "name":"Phonic"
-    },
-    {
-       "id":{
-          "hex":"00205a",
-          "length":3
-       },
-       "name":"Dolby Australia"
-    },
-    {
-       "id":{
-          "hex":"00205b",
-          "length":3
-       },
-       "name":"Silansys Technologies"
-    },
-    {
-       "id":{
-          "hex":"00205c",
-          "length":3
-       },
-       "name":"Winbond Electronics"
-    },
-    {
-       "id":{
-          "hex":"00205d",
-          "length":3
-       },
-       "name":"Cinetix Medien und Interface"
-    },
-    {
-       "id":{
-          "hex":"00205e",
-          "length":3
-       },
-       "name":"A&G Soluzioni Digitali"
-    },
-    {
-       "id":{
-          "hex":"00205f",
-          "length":3
-       },
-       "name":"Sequentix"
-    },
-    {
-       "id":{
-          "hex":"002060",
-          "length":3
-       },
-       "name":"Oram Pro Audio"
-    },
-    {
-       "id":{
-          "hex":"002061",
-          "length":3
-       },
-       "name":"Be4"
-    },
-    {
-       "id":{
-          "hex":"002062",
-          "length":3
-       },
-       "name":"Infection Music"
-    },
-    {
-       "id":{
-          "hex":"002063",
-          "length":3
-       },
-       "name":"Central Music"
-    },
-    {
-       "id":{
-          "hex":"002064",
-          "length":3
-       },
-       "name":"genoQs Machines"
-    },
-    {
-       "id":{
-          "hex":"002065",
-          "length":3
-       },
-       "name":"Medialon"
-    },
-    {
-       "id":{
-          "hex":"002066",
-          "length":3
-       },
-       "name":"Waves Audio"
-    },
-    {
-       "id":{
-          "hex":"002067",
-          "length":3
-       },
-       "name":"Jerash Labs"
-    },
-    {
-       "id":{
-          "hex":"002068",
-          "length":3
-       },
-       "name":"Da Fact"
-    },
-    {
-       "id":{
-          "hex":"002069",
-          "length":3
-       },
-       "name":"Elby Designs"
-    },
-    {
-       "id":{
-          "hex":"00206a",
-          "length":3
-       },
-       "name":"Spectral Audio"
-    },
-    {
-       "id":{
-          "hex":"00206b",
-          "length":3
-       },
-       "name":"Arturia"
-    },
-    {
-       "id":{
-          "hex":"00206c",
-          "length":3
-       },
-       "name":"Vixid"
-    },
-    {
-       "id":{
-          "hex":"00206d",
-          "length":3
-       },
-       "name":"C-Thru Music"
-    },
-    {
-       "id":{
-          "hex":"00206e",
-          "length":3
-       },
-       "name":"Ya Horng Electronic"
-    },
-    {
-       "id":{
-          "hex":"00206f",
-          "length":3
-       },
-       "name":"SM Pro Audio"
-    },
-    {
-       "id":{
-          "hex":"002070",
-          "length":3
-       },
-       "name":"OTO Machines"
-    },
-    {
-       "id":{
-          "hex":"002071",
-          "length":3
-       },
-       "name":"ELZAB"
-    },
-    {
-       "id":{
-          "hex":"002072",
-          "length":3
-       },
-       "name":"Blackstar Amplification"
-    },
-    {
-       "id":{
-          "hex":"002073",
-          "length":3
-       },
-       "name":"M3i Technologies"
-    },
-    {
-       "id":{
-          "hex":"002074",
-          "length":3
-       },
-       "name":"Gemalto"
-    },
-    {
-       "id":{
-          "hex":"002075",
-          "length":3
-       },
-       "name":"Prostage"
-    },
-    {
-       "id":{
-          "hex":"002076",
-          "length":3
-       },
-       "name":"Teenage Engineering"
-    },
-    {
-       "id":{
-          "hex":"002077",
-          "length":3
-       },
-       "name":"Tobias Erichsen Consulting"
-    },
-    {
-       "id":{
-          "hex":"002078",
-          "length":3
-       },
-       "name":"Nixer"
-    },
-    {
-       "id":{
-          "hex":"002079",
-          "length":3
-       },
-       "name":"Hanpin Electron"
-    },
-    {
-       "id":{
-          "hex":"00207a",
-          "length":3
-       },
-       "name":"R. Sowa"
-    },
-    {
-       "id":{
-          "hex":"00207b",
-          "length":3
-       },
-       "name":"Beyond Music"
-    },
-    {
-       "id":{
-          "hex":"00207c",
-          "length":3
-       },
-       "name":"Kiss Box"
-    },
-    {
-       "id":{
-          "hex":"00207d",
-          "length":3
-       },
-       "name":"Misa Digital Technologies"
-    },
-    {
-       "id":{
-          "hex":"00207e",
-          "length":3
-       },
-       "name":"AI Musics Technology"
-    },
-    {
-       "id":{
-          "hex":"00207f",
-          "length":3
-       },
-       "name":"Serato"
-    },
-    {
-       "id":{
-          "hex":"002100",
-          "length":3
-       },
-       "name":"Limex"
-    },
-    {
-       "id":{
-          "hex":"002101",
-          "length":3
-       },
-       "name":"Kyodday"
-    },
-    {
-       "id":{
-          "hex":"002102",
-          "length":3
-       },
-       "name":"Mutable Instruments"
-    },
-    {
-       "id":{
-          "hex":"002103",
-          "length":3
-       },
-       "name":"PreSonus Software"
-    },
-    {
-       "id":{
-          "hex":"002104",
-          "length":3
-       },
-       "name":"Ingenico"
-    },
-    {
-       "id":{
-          "hex":"002105",
-          "length":3
-       },
-       "name":"Fairlight Instruments"
-    },
-    {
-       "id":{
-          "hex":"002106",
-          "length":3
-       },
-       "name":"Musicom Lab"
-    },
-    {
-       "id":{
-          "hex":"002107",
-          "length":3
-       },
-       "name":"Modal Electronics"
-    },
-    {
-       "id":{
-          "hex":"002108",
-          "length":3
-       },
-       "name":"RWA"
-    },
-    {
-       "id":{
-          "hex":"002109",
-          "length":3
-       },
-       "name":"Native Instruments"
-    },
-    {
-       "id":{
-          "hex":"00210a",
-          "length":3
-       },
-       "name":"Naonext"
-    },
-    {
-       "id":{
-          "hex":"00210b",
-          "length":3
-       },
-       "name":"MFB"
-    },
-    {
-       "id":{
-          "hex":"00210c",
-          "length":3
-       },
-       "name":"Teknel Research"
-    },
-    {
-       "id":{
-          "hex":"00210d",
-          "length":3
-       },
-       "name":"Ploytec"
-    },
-    {
-       "id":{
-          "hex":"00210e",
-          "length":3
-       },
-       "name":"Surfin Kangaroo Studio"
-    },
-    {
-       "id":{
-          "hex":"00210f",
-          "length":3
-       },
-       "name":"Philips Electronics"
-    },
-    {
-       "id":{
-          "hex":"002110",
-          "length":3
-       },
-       "name":"ROLI"
-    },
-    {
-       "id":{
-          "hex":"002111",
-          "length":3
-       },
-       "name":"Panda-Audio"
-    },
-    {
-       "id":{
-          "hex":"002112",
-          "length":3
-       },
-       "name":"BauM Software"
-    },
-    {
-       "id":{
-          "hex":"002113",
-          "length":3
-       },
-       "name":"Machinewerks"
-    },
-    {
-       "id":{
-          "hex":"002114",
-          "length":3
-       },
-       "name":"Xiamen Elane Electronics"
-    },
-    {
-       "id":{
-          "hex":"002115",
-          "length":3
-       },
-       "name":"Marshall Amplification"
-    },
-    {
-       "id":{
-          "hex":"002116",
-          "length":3
-       },
-       "name":"Kiwitechnics"
-    },
-    {
-       "id":{
-          "hex":"002117",
-          "length":3
-       },
-       "name":"Rob Papen"
-    },
-    {
-       "id":{
-          "hex":"002118",
-          "length":3
-       },
-       "name":"Spicetone"
-    },
-    {
-       "id":{
-          "hex":"002119",
-          "length":3
-       },
-       "name":"V3Sound"
-    },
-    {
-       "id":{
-          "hex":"00211a",
-          "length":3
-       },
-       "name":"IK Multimedia"
-    },
-    {
-       "id":{
-          "hex":"00211b",
-          "length":3
-       },
-       "name":"Novalia"
-    },
-    {
-       "id":{
-          "hex":"00211c",
-          "length":3
-       },
-       "name":"Modor Music"
-    },
-    {
-       "id":{
-          "hex":"00211d",
-          "length":3
-       },
-       "name":"Ableton"
-    },
-    {
-       "id":{
-          "hex":"00211e",
-          "length":3
-       },
-       "name":"Dtronics"
-    },
-    {
-       "id":{
-          "hex":"00211f",
-          "length":3
-       },
-       "name":"ZAQ Audio"
-    },
-    {
-       "id":{
-          "hex":"002120",
-          "length":3
-       },
-       "name":"Muabaobao Education Technology"
-    },
-    {
-       "id":{
-          "hex":"002121",
-          "length":3
-       },
-       "name":"Flux Effects"
-    },
-    {
-       "id":{
-          "hex":"002122",
-          "length":3
-       },
-       "name":"Audiothingies"
-    },
-    {
-       "id":{
-          "hex":"002123",
-          "length":3
-       },
-       "name":"Retrokits"
-    },
-    {
-       "id":{
-          "hex":"002124",
-          "length":3
-       },
-       "name":"Morningstar FX"
-    },
-    {
-       "id":{
-          "hex":"002125",
-          "length":3
-       },
-       "name":"Changsha Hotone Audio"
-    },
-    {
-       "id":{
-          "hex":"002126",
-          "length":3
-       },
-       "name":"Expressive"
-    },
-    {
-       "id":{
-          "hex":"002127",
-          "length":3
-       },
-       "name":"Expert Sleepers"
-    },
-    {
-       "id":{
-          "hex":"002128",
-          "length":3
-       },
-       "name":"Timecode-Vision Technology"
-    },
-    {
-       "id":{
-          "hex":"002129",
-          "length":3
-       },
-       "name":"Hornberg Research"
-    },
-    {
-       "id":{
-          "hex":"00212a",
-          "length":3
-       },
-       "name":"Sonic Potions"
-    },
-    {
-       "id":{
-          "hex":"00212b",
-          "length":3
-       },
-       "name":"Audiofront"
-    },
-    {
-       "id":{
-          "hex":"00212c",
-          "length":3
-       },
-       "name":"Fred's Lab"
-    },
-    {
-       "id":{
-          "hex":"00212d",
-          "length":3
-       },
-       "name":"Audio Modeling"
-    },
-    {
-       "id":{
-          "hex":"00212e",
-          "length":3
-       },
-       "name":"C. Bechstein Digital"
-    },
-    {
-       "id":{
-          "hex":"00212f",
-          "length":3
-       },
-       "name":"Motas Electronics"
-    },
-    {
-       "id":{
-          "hex":"002130",
-          "length":3
-       },
-       "name":"MIND Music Labs"
-    },
-    {
-       "id":{
-          "hex":"002131",
-          "length":3
-       },
-       "name":"Sonic Academy"
-    },
-    {
-       "id":{
-          "hex":"002132",
-          "length":3
-       },
-       "name":"Bome Software"
-    },
-    {
-       "id":{
-          "hex":"002133",
-          "length":3
-       },
-       "name":"AODYO"
-    },
-    {
-       "id":{
-          "hex":"002134",
-          "length":3
-       },
-       "name":"Pianoforce"
-    },
-    {
-       "id":{
-          "hex":"002135",
-          "length":3
-       },
-       "name":"Dreadbox"
-    },
-    {
-       "id":{
-          "hex":"002136",
-          "length":3
-       },
-       "name":"TouchKeys Instruments"
-    },
-    {
-       "id":{
-          "hex":"002137",
-          "length":3
-       },
-       "name":"Gigrig"
-    },
-    {
-       "id":{
-          "hex":"002138",
-          "length":3
-       },
-       "name":"ALM"
-    },
-    {
-       "id":{
-          "hex":"002139",
-          "length":3
-       },
-       "name":"CH Sound Design"
-    },
-    {
-       "id":{
-          "hex":"00213a",
-          "length":3
-       },
-       "name":"Beat Bars"
-    },
-    {
-       "id":{
-          "hex":"00213b",
-          "length":3
-       },
-       "name":"Blokas"
-    },
-    {
-       "id":{
-          "hex":"00213c",
-          "length":3
-       },
-       "name":"GEWA Music"
-    },
-    {
-       "id":{
-          "hex":"00213d",
-          "length":3
-       },
-       "name":"dadamachines"
-    },
-    {
-       "id":{
-          "hex":"00213e",
-          "length":3
-       },
-       "name":"Augmented Instruments"
-    },
-    {
-       "id":{
-          "hex":"00213f",
-          "length":3
-       },
-       "name":"Supercritical"
-    },
-    {
-       "id":{
-          "hex":"002140",
-          "length":3
-       },
-       "name":"Genki Instruments"
-    },
-    {
-       "id":{
-          "hex":"002141",
-          "length":3
-       },
-       "name":"Marienberg Devices"
-    },
-    {
-       "id":{
-          "hex":"002142",
-          "length":3
-       },
-       "name":"Supperware"
-    },
-    {
-       "id":{
-          "hex":"002143",
-          "length":3
-       },
-       "name":"Imoxplus"
-    },
-    {
-       "id":{
-          "hex":"002144",
-          "length":3
-       },
-       "name":"Swapp Technologies"
-    },
-    {
-       "id":{
-          "hex":"002145",
-          "length":3
-       },
-       "name":"Electra One"
-    },
-    {
-       "id":{
-          "hex":"002146",
-          "length":3
-       },
-       "name":"Digital Clef"
-    },
-    {
-       "id":{
-          "hex":"002147",
-          "length":3
-       },
-       "name":"Paul Whittington Group"
-    },
-    {
-       "id":{
-          "hex":"004000",
-          "length":3
-       },
-       "name":"Crimson Technology"
-    },
-    {
-       "id":{
-          "hex":"004001",
-          "length":3
-       },
-       "name":"Softbank"
-    },
-    {
-       "id":{
-          "hex":"004003",
-          "length":3
-       },
-       "name":"D&M Holdings"
-    }
- ]
+  {
+    "id": {
+      "hex": "01",
+      "length": 1,
+      "dec": 1
+    },
+    "name": "Sequential"
+  },
+  {
+    "id": {
+      "hex": "02",
+      "length": 1,
+      "dec": 2
+    },
+    "name": "IDP"
+  },
+  {
+    "id": {
+      "hex": "03",
+      "length": 1,
+      "dec": 3
+    },
+    "name": "Voyetra Turtle Beach"
+  },
+  {
+    "id": {
+      "hex": "04",
+      "length": 1,
+      "dec": 4
+    },
+    "name": "Moog"
+  },
+  {
+    "id": {
+      "hex": "05",
+      "length": 1,
+      "dec": 5
+    },
+    "name": "Passport Designs"
+  },
+  {
+    "id": {
+      "hex": "06",
+      "length": 1,
+      "dec": 6
+    },
+    "name": "Lexicon"
+  },
+  {
+    "id": {
+      "hex": "07",
+      "length": 1,
+      "dec": 7
+    },
+    "name": "Kurzweil"
+  },
+  {
+    "id": {
+      "hex": "08",
+      "length": 1,
+      "dec": 8
+    },
+    "name": "Fender"
+  },
+  {
+    "id": {
+      "hex": "09",
+      "length": 1,
+      "dec": 9
+    },
+    "name": "MIDI9"
+  },
+  {
+    "id": {
+      "hex": "0a",
+      "length": 1,
+      "dec": 10
+    },
+    "name": "AKG"
+  },
+  {
+    "id": {
+      "hex": "0b",
+      "length": 1,
+      "dec": 11
+    },
+    "name": "Voyce Music"
+  },
+  {
+    "id": {
+      "hex": "0c",
+      "length": 1,
+      "dec": 12
+    },
+    "name": "WaveFrame"
+  },
+  {
+    "id": {
+      "hex": "0d",
+      "length": 1,
+      "dec": 13
+    },
+    "name": "ADA"
+  },
+  {
+    "id": {
+      "hex": "0e",
+      "length": 1,
+      "dec": 14
+    },
+    "name": "Garfield Electronics"
+  },
+  {
+    "id": {
+      "hex": "0f",
+      "length": 1,
+      "dec": 15
+    },
+    "name": "Ensoniq"
+  },
+  {
+    "id": {
+      "hex": "10",
+      "length": 1,
+      "dec": 16
+    },
+    "name": "Oberheim"
+  },
+  {
+    "id": {
+      "hex": "11",
+      "length": 1,
+      "dec": 17
+    },
+    "name": "Apple"
+  },
+  {
+    "id": {
+      "hex": "12",
+      "length": 1,
+      "dec": 18
+    },
+    "name": "Grey Matter Response"
+  },
+  {
+    "id": {
+      "hex": "13",
+      "length": 1,
+      "dec": 19
+    },
+    "name": "Digidesign"
+  },
+  {
+    "id": {
+      "hex": "14",
+      "length": 1,
+      "dec": 20
+    },
+    "name": "Palmtree Instruments"
+  },
+  {
+    "id": {
+      "hex": "15",
+      "length": 1,
+      "dec": 21
+    },
+    "name": "JLCooper Electronics"
+  },
+  {
+    "id": {
+      "hex": "16",
+      "length": 1,
+      "dec": 22
+    },
+    "name": "Lowrey"
+  },
+  {
+    "id": {
+      "hex": "17",
+      "length": 1,
+      "dec": 23
+    },
+    "name": "Adams-Smith"
+  },
+  {
+    "id": {
+      "hex": "18",
+      "length": 1,
+      "dec": 24
+    },
+    "name": "E-MU"
+  },
+  {
+    "id": {
+      "hex": "19",
+      "length": 1,
+      "dec": 25
+    },
+    "name": "Harmony Systems"
+  },
+  {
+    "id": {
+      "hex": "1a",
+      "length": 1,
+      "dec": 26
+    },
+    "name": "ART"
+  },
+  {
+    "id": {
+      "hex": "1b",
+      "length": 1,
+      "dec": 27
+    },
+    "name": "Baldwin"
+  },
+  {
+    "id": {
+      "hex": "1c",
+      "length": 1,
+      "dec": 28
+    },
+    "name": "Eventide"
+  },
+  {
+    "id": {
+      "hex": "1d",
+      "length": 1,
+      "dec": 29
+    },
+    "name": "Inventronics"
+  },
+  {
+    "id": {
+      "hex": "1e",
+      "length": 1,
+      "dec": 30
+    },
+    "name": "Key Concepts"
+  },
+  {
+    "id": {
+      "hex": "1f",
+      "length": 1,
+      "dec": 31
+    },
+    "name": "Clarity"
+  },
+  {
+    "id": {
+      "hex": "20",
+      "length": 1,
+      "dec": 32
+    },
+    "name": "Passac"
+  },
+  {
+    "id": {
+      "hex": "21",
+      "length": 1,
+      "dec": 33
+    },
+    "name": "Proel Labs"
+  },
+  {
+    "id": {
+      "hex": "22",
+      "length": 1,
+      "dec": 34
+    },
+    "name": "Synthaxe"
+  },
+  {
+    "id": {
+      "hex": "23",
+      "length": 1,
+      "dec": 35
+    },
+    "name": "Stepp"
+  },
+  {
+    "id": {
+      "hex": "24",
+      "length": 1,
+      "dec": 36
+    },
+    "name": "Hohner"
+  },
+  {
+    "id": {
+      "hex": "25",
+      "length": 1,
+      "dec": 37
+    },
+    "name": "Twister"
+  },
+  {
+    "id": {
+      "hex": "26",
+      "length": 1,
+      "dec": 38
+    },
+    "name": "Ketron"
+  },
+  {
+    "id": {
+      "hex": "27",
+      "length": 1,
+      "dec": 39
+    },
+    "name": "Jellinghaus"
+  },
+  {
+    "id": {
+      "hex": "28",
+      "length": 1,
+      "dec": 40
+    },
+    "name": "Southworth Music Systems"
+  },
+  {
+    "id": {
+      "hex": "29",
+      "length": 1,
+      "dec": 41
+    },
+    "name": "PPG"
+  },
+  {
+    "id": {
+      "hex": "2a",
+      "length": 1,
+      "dec": 42
+    },
+    "name": "JEN"
+  },
+  {
+    "id": {
+      "hex": "2b",
+      "length": 1,
+      "dec": 43
+    },
+    "name": "Solid State"
+  },
+  {
+    "id": {
+      "hex": "2c",
+      "length": 1,
+      "dec": 44
+    },
+    "name": "Audio Vertrieb"
+  },
+  {
+    "id": {
+      "hex": "2d",
+      "length": 1,
+      "dec": 45
+    },
+    "name": "Neve"
+  },
+  {
+    "id": {
+      "hex": "2e",
+      "length": 1,
+      "dec": 46
+    },
+    "name": "Soundtracs"
+  },
+  {
+    "id": {
+      "hex": "2f",
+      "length": 1,
+      "dec": 47
+    },
+    "name": "Elka"
+  },
+  {
+    "id": {
+      "hex": "30",
+      "length": 1,
+      "dec": 48
+    },
+    "name": "Dynacord"
+  },
+  {
+    "id": {
+      "hex": "31",
+      "length": 1,
+      "dec": 49
+    },
+    "name": "Viscount"
+  },
+  {
+    "id": {
+      "hex": "32",
+      "length": 1,
+      "dec": 50
+    },
+    "name": "Drawmer"
+  },
+  {
+    "id": {
+      "hex": "33",
+      "length": 1,
+      "dec": 51
+    },
+    "name": "Clavia"
+  },
+  {
+    "id": {
+      "hex": "34",
+      "length": 1,
+      "dec": 52
+    },
+    "name": "Audio Architecture"
+  },
+  {
+    "id": {
+      "hex": "35",
+      "length": 1,
+      "dec": 53
+    },
+    "name": "Generalmusic"
+  },
+  {
+    "id": {
+      "hex": "36",
+      "length": 1,
+      "dec": 54
+    },
+    "name": "Cheetah Marketing"
+  },
+  {
+    "id": {
+      "hex": "37",
+      "length": 1,
+      "dec": 55
+    },
+    "name": "C.T.M."
+  },
+  {
+    "id": {
+      "hex": "38",
+      "length": 1,
+      "dec": 56
+    },
+    "name": "Simmons"
+  },
+  {
+    "id": {
+      "hex": "39",
+      "length": 1,
+      "dec": 57
+    },
+    "name": "Soundcraft"
+  },
+  {
+    "id": {
+      "hex": "3a",
+      "length": 1,
+      "dec": 58
+    },
+    "name": "Steinberg"
+  },
+  {
+    "id": {
+      "hex": "3b",
+      "length": 1,
+      "dec": 59
+    },
+    "name": "Wersi"
+  },
+  {
+    "id": {
+      "hex": "3c",
+      "length": 1,
+      "dec": 60
+    },
+    "name": "AVAB"
+  },
+  {
+    "id": {
+      "hex": "3d",
+      "length": 1,
+      "dec": 61
+    },
+    "name": "Digigram"
+  },
+  {
+    "id": {
+      "hex": "3e",
+      "length": 1,
+      "dec": 62
+    },
+    "name": "Waldorf"
+  },
+  {
+    "id": {
+      "hex": "3f",
+      "length": 1,
+      "dec": 63
+    },
+    "name": "Quasimidi"
+  },
+  {
+    "id": {
+      "hex": "40",
+      "length": 1,
+      "dec": 64
+    },
+    "name": "Kawai"
+  },
+  {
+    "id": {
+      "hex": "41",
+      "length": 1,
+      "dec": 65
+    },
+    "name": "Roland"
+  },
+  {
+    "id": {
+      "hex": "42",
+      "length": 1,
+      "dec": 66
+    },
+    "name": "Korg"
+  },
+  {
+    "id": {
+      "hex": "43",
+      "length": 1,
+      "dec": 67
+    },
+    "name": "Yamaha"
+  },
+  {
+    "id": {
+      "hex": "44",
+      "length": 1,
+      "dec": 68
+    },
+    "name": "Casio"
+  },
+  {
+    "id": {
+      "hex": "46",
+      "length": 1,
+      "dec": 70
+    },
+    "name": "Kamiya Studio"
+  },
+  {
+    "id": {
+      "hex": "47",
+      "length": 1,
+      "dec": 71
+    },
+    "name": "Akai"
+  },
+  {
+    "id": {
+      "hex": "48",
+      "length": 1,
+      "dec": 72
+    },
+    "name": "Victor"
+  },
+  {
+    "id": {
+      "hex": "4b",
+      "length": 1,
+      "dec": 75
+    },
+    "name": "Fujitsu"
+  },
+  {
+    "id": {
+      "hex": "4c",
+      "length": 1,
+      "dec": 76
+    },
+    "name": "Sony"
+  },
+  {
+    "id": {
+      "hex": "4e",
+      "length": 1,
+      "dec": 78
+    },
+    "name": "Teac"
+  },
+  {
+    "id": {
+      "hex": "50",
+      "length": 1,
+      "dec": 80
+    },
+    "name": "Matsushita Electric"
+  },
+  {
+    "id": {
+      "hex": "51",
+      "length": 1,
+      "dec": 81
+    },
+    "name": "Fostex"
+  },
+  {
+    "id": {
+      "hex": "52",
+      "length": 1,
+      "dec": 82
+    },
+    "name": "Zoom"
+  },
+  {
+    "id": {
+      "hex": "54",
+      "length": 1,
+      "dec": 84
+    },
+    "name": "Matsushita Communication"
+  },
+  {
+    "id": {
+      "hex": "55",
+      "length": 1,
+      "dec": 85
+    },
+    "name": "Suzuki"
+  },
+  {
+    "id": {
+      "hex": "56",
+      "length": 1,
+      "dec": 86
+    },
+    "name": "Fuji"
+  },
+  {
+    "id": {
+      "hex": "57",
+      "length": 1,
+      "dec": 87
+    },
+    "name": "Acoustic Technical Laboratory"
+  },
+  {
+    "id": {
+      "hex": "59",
+      "length": 1,
+      "dec": 89
+    },
+    "name": "Faith"
+  },
+  {
+    "id": {
+      "hex": "5a",
+      "length": 1,
+      "dec": 90
+    },
+    "name": "Internet Corporation"
+  },
+  {
+    "id": {
+      "hex": "5c",
+      "length": 1,
+      "dec": 92
+    },
+    "name": "Seekers"
+  },
+  {
+    "id": {
+      "hex": "5f",
+      "length": 1,
+      "dec": 95
+    },
+    "name": "SD Card Association"
+  },
+  {
+    "id": {
+      "hex": "7d",
+      "length": 1,
+      "dec": 125
+    },
+    "name": "(educational)"
+  },
+  {
+    "id": {
+      "hex": "000001",
+      "length": 3,
+      "dec": 1
+    },
+    "name": "Time/Warner"
+  },
+  {
+    "id": {
+      "hex": "000002",
+      "length": 3,
+      "dec": 2
+    },
+    "name": "Advanced Gravis"
+  },
+  {
+    "id": {
+      "hex": "000003",
+      "length": 3,
+      "dec": 3
+    },
+    "name": "Media Vision"
+  },
+  {
+    "id": {
+      "hex": "000004",
+      "length": 3,
+      "dec": 4
+    },
+    "name": "Dornes Research Group"
+  },
+  {
+    "id": {
+      "hex": "000005",
+      "length": 3,
+      "dec": 5
+    },
+    "name": "K-Muse"
+  },
+  {
+    "id": {
+      "hex": "000006",
+      "length": 3,
+      "dec": 6
+    },
+    "name": "Stypher"
+  },
+  {
+    "id": {
+      "hex": "000007",
+      "length": 3,
+      "dec": 7
+    },
+    "name": "Digital Music"
+  },
+  {
+    "id": {
+      "hex": "000008",
+      "length": 3,
+      "dec": 8
+    },
+    "name": "IOTA Systems"
+  },
+  {
+    "id": {
+      "hex": "000009",
+      "length": 3,
+      "dec": 9
+    },
+    "name": "New England Digital"
+  },
+  {
+    "id": {
+      "hex": "00000a",
+      "length": 3,
+      "dec": 10
+    },
+    "name": "Artisyn"
+  },
+  {
+    "id": {
+      "hex": "00000b",
+      "length": 3,
+      "dec": 11
+    },
+    "name": "IVL Technologies"
+  },
+  {
+    "id": {
+      "hex": "00000c",
+      "length": 3,
+      "dec": 12
+    },
+    "name": "Southern Music Systems"
+  },
+  {
+    "id": {
+      "hex": "00000d",
+      "length": 3,
+      "dec": 13
+    },
+    "name": "Lake Butler Sound Company"
+  },
+  {
+    "id": {
+      "hex": "00000e",
+      "length": 3,
+      "dec": 14
+    },
+    "name": "Alesis Studio Electronics"
+  },
+  {
+    "id": {
+      "hex": "00000f",
+      "length": 3,
+      "dec": 15
+    },
+    "name": "Sound Creation"
+  },
+  {
+    "id": {
+      "hex": "000010",
+      "length": 3,
+      "dec": 16
+    },
+    "name": "DOD Electronics"
+  },
+  {
+    "id": {
+      "hex": "000011",
+      "length": 3,
+      "dec": 17
+    },
+    "name": "Studer-Editech"
+  },
+  {
+    "id": {
+      "hex": "000012",
+      "length": 3,
+      "dec": 18
+    },
+    "name": "Sonus"
+  },
+  {
+    "id": {
+      "hex": "000013",
+      "length": 3,
+      "dec": 19
+    },
+    "name": "Temporal Acuity Products"
+  },
+  {
+    "id": {
+      "hex": "000014",
+      "length": 3,
+      "dec": 20
+    },
+    "name": "Perfect Fretworks"
+  },
+  {
+    "id": {
+      "hex": "000015",
+      "length": 3,
+      "dec": 21
+    },
+    "name": "KAT"
+  },
+  {
+    "id": {
+      "hex": "000016",
+      "length": 3,
+      "dec": 22
+    },
+    "name": "Opcode Systems"
+  },
+  {
+    "id": {
+      "hex": "000017",
+      "length": 3,
+      "dec": 23
+    },
+    "name": "Rane"
+  },
+  {
+    "id": {
+      "hex": "000018",
+      "length": 3,
+      "dec": 24
+    },
+    "name": "Anadi Electronique"
+  },
+  {
+    "id": {
+      "hex": "000019",
+      "length": 3,
+      "dec": 25
+    },
+    "name": "KMX"
+  },
+  {
+    "id": {
+      "hex": "00001a",
+      "length": 3,
+      "dec": 26
+    },
+    "name": "Allen & Heath Brenell"
+  },
+  {
+    "id": {
+      "hex": "00001b",
+      "length": 3,
+      "dec": 27
+    },
+    "name": "Peavey Electronics"
+  },
+  {
+    "id": {
+      "hex": "00001c",
+      "length": 3,
+      "dec": 28
+    },
+    "name": "360 Systems"
+  },
+  {
+    "id": {
+      "hex": "00001d",
+      "length": 3,
+      "dec": 29
+    },
+    "name": "Spectrum Design and Development"
+  },
+  {
+    "id": {
+      "hex": "00001e",
+      "length": 3,
+      "dec": 30
+    },
+    "name": "Marquis Music"
+  },
+  {
+    "id": {
+      "hex": "00001f",
+      "length": 3,
+      "dec": 31
+    },
+    "name": "Zeta Systems"
+  },
+  {
+    "id": {
+      "hex": "000020",
+      "length": 3,
+      "dec": 32
+    },
+    "name": "Axxes"
+  },
+  {
+    "id": {
+      "hex": "000021",
+      "length": 3,
+      "dec": 33
+    },
+    "name": "Orban"
+  },
+  {
+    "id": {
+      "hex": "000022",
+      "length": 3,
+      "dec": 34
+    },
+    "name": "Indian Valley"
+  },
+  {
+    "id": {
+      "hex": "000023",
+      "length": 3,
+      "dec": 35
+    },
+    "name": "Triton"
+  },
+  {
+    "id": {
+      "hex": "000024",
+      "length": 3,
+      "dec": 36
+    },
+    "name": "KTI"
+  },
+  {
+    "id": {
+      "hex": "000025",
+      "length": 3,
+      "dec": 37
+    },
+    "name": "Breakaway Technologies"
+  },
+  {
+    "id": {
+      "hex": "000026",
+      "length": 3,
+      "dec": 38
+    },
+    "name": "Leprecon"
+  },
+  {
+    "id": {
+      "hex": "000027",
+      "length": 3,
+      "dec": 39
+    },
+    "name": "Harrison Systems"
+  },
+  {
+    "id": {
+      "hex": "000028",
+      "length": 3,
+      "dec": 40
+    },
+    "name": "Future Lab"
+  },
+  {
+    "id": {
+      "hex": "000029",
+      "length": 3,
+      "dec": 41
+    },
+    "name": "Rocktron"
+  },
+  {
+    "id": {
+      "hex": "00002a",
+      "length": 3,
+      "dec": 42
+    },
+    "name": "PianoDisc"
+  },
+  {
+    "id": {
+      "hex": "00002b",
+      "length": 3,
+      "dec": 43
+    },
+    "name": "Cannon"
+  },
+  {
+    "id": {
+      "hex": "00002c",
+      "length": 3,
+      "dec": 44
+    },
+    "name": "Reserved"
+  },
+  {
+    "id": {
+      "hex": "00002d",
+      "length": 3,
+      "dec": 45
+    },
+    "name": "Rodgers Instrument"
+  },
+  {
+    "id": {
+      "hex": "00002e",
+      "length": 3,
+      "dec": 46
+    },
+    "name": "Blue Sky Logic"
+  },
+  {
+    "id": {
+      "hex": "00002f",
+      "length": 3,
+      "dec": 47
+    },
+    "name": "Encore Electronics"
+  },
+  {
+    "id": {
+      "hex": "000030",
+      "length": 3,
+      "dec": 48
+    },
+    "name": "Uptown"
+  },
+  {
+    "id": {
+      "hex": "000031",
+      "length": 3,
+      "dec": 49
+    },
+    "name": "Voce"
+  },
+  {
+    "id": {
+      "hex": "000032",
+      "length": 3,
+      "dec": 50
+    },
+    "name": "CTI Audio"
+  },
+  {
+    "id": {
+      "hex": "000033",
+      "length": 3,
+      "dec": 51
+    },
+    "name": "S3"
+  },
+  {
+    "id": {
+      "hex": "000034",
+      "length": 3,
+      "dec": 52
+    },
+    "name": "Broderbund"
+  },
+  {
+    "id": {
+      "hex": "000035",
+      "length": 3,
+      "dec": 53
+    },
+    "name": "Allen Organ Co."
+  },
+  {
+    "id": {
+      "hex": "000036",
+      "length": 3,
+      "dec": 54
+    },
+    "name": "Reserved"
+  },
+  {
+    "id": {
+      "hex": "000037",
+      "length": 3,
+      "dec": 55
+    },
+    "name": "Music Quest"
+  },
+  {
+    "id": {
+      "hex": "000038",
+      "length": 3,
+      "dec": 56
+    },
+    "name": "Aphex"
+  },
+  {
+    "id": {
+      "hex": "000039",
+      "length": 3,
+      "dec": 57
+    },
+    "name": "Gallien Krueger"
+  },
+  {
+    "id": {
+      "hex": "00003a",
+      "length": 3,
+      "dec": 58
+    },
+    "name": "IBM"
+  },
+  {
+    "id": {
+      "hex": "00003b",
+      "length": 3,
+      "dec": 59
+    },
+    "name": "Mark Of The Unicorn"
+  },
+  {
+    "id": {
+      "hex": "00003c",
+      "length": 3,
+      "dec": 60
+    },
+    "name": "Hotz"
+  },
+  {
+    "id": {
+      "hex": "00003d",
+      "length": 3,
+      "dec": 61
+    },
+    "name": "ETA Lighting"
+  },
+  {
+    "id": {
+      "hex": "00003e",
+      "length": 3,
+      "dec": 62
+    },
+    "name": "NSI"
+  },
+  {
+    "id": {
+      "hex": "00003f",
+      "length": 3,
+      "dec": 63
+    },
+    "name": "Ad Lib"
+  },
+  {
+    "id": {
+      "hex": "000040",
+      "length": 3,
+      "dec": 64
+    },
+    "name": "Richmond Sound Design"
+  },
+  {
+    "id": {
+      "hex": "000041",
+      "length": 3,
+      "dec": 65
+    },
+    "name": "Microsoft"
+  },
+  {
+    "id": {
+      "hex": "000042",
+      "length": 3,
+      "dec": 66
+    },
+    "name": "Mindscape"
+  },
+  {
+    "id": {
+      "hex": "000043",
+      "length": 3,
+      "dec": 67
+    },
+    "name": "Russ Jones Marketing"
+  },
+  {
+    "id": {
+      "hex": "000044",
+      "length": 3,
+      "dec": 68
+    },
+    "name": "Intone"
+  },
+  {
+    "id": {
+      "hex": "000045",
+      "length": 3,
+      "dec": 69
+    },
+    "name": "Advanced Remote Technologies"
+  },
+  {
+    "id": {
+      "hex": "000046",
+      "length": 3,
+      "dec": 70
+    },
+    "name": "White Instruments"
+  },
+  {
+    "id": {
+      "hex": "000047",
+      "length": 3,
+      "dec": 71
+    },
+    "name": "GT Electronics"
+  },
+  {
+    "id": {
+      "hex": "000048",
+      "length": 3,
+      "dec": 72
+    },
+    "name": "Pacific Research & Engineering"
+  },
+  {
+    "id": {
+      "hex": "000049",
+      "length": 3,
+      "dec": 73
+    },
+    "name": "Timeline Vista"
+  },
+  {
+    "id": {
+      "hex": "00004a",
+      "length": 3,
+      "dec": 74
+    },
+    "name": "Mesa Boogie"
+  },
+  {
+    "id": {
+      "hex": "00004b",
+      "length": 3,
+      "dec": 75
+    },
+    "name": "FSLI"
+  },
+  {
+    "id": {
+      "hex": "00004c",
+      "length": 3,
+      "dec": 76
+    },
+    "name": "Sequoia Development"
+  },
+  {
+    "id": {
+      "hex": "00004d",
+      "length": 3,
+      "dec": 77
+    },
+    "name": "Studio Electronics"
+  },
+  {
+    "id": {
+      "hex": "00004e",
+      "length": 3,
+      "dec": 78
+    },
+    "name": "Euphonix"
+  },
+  {
+    "id": {
+      "hex": "00004f",
+      "length": 3,
+      "dec": 79
+    },
+    "name": "InterMIDI"
+  },
+  {
+    "id": {
+      "hex": "000050",
+      "length": 3,
+      "dec": 80
+    },
+    "name": "MIDI Solutions"
+  },
+  {
+    "id": {
+      "hex": "000051",
+      "length": 3,
+      "dec": 81
+    },
+    "name": "3DO Company"
+  },
+  {
+    "id": {
+      "hex": "000052",
+      "length": 3,
+      "dec": 82
+    },
+    "name": "Lightwave Research"
+  },
+  {
+    "id": {
+      "hex": "000053",
+      "length": 3,
+      "dec": 83
+    },
+    "name": "Micro-W"
+  },
+  {
+    "id": {
+      "hex": "000054",
+      "length": 3,
+      "dec": 84
+    },
+    "name": "Spectral Synthesis"
+  },
+  {
+    "id": {
+      "hex": "000055",
+      "length": 3,
+      "dec": 85
+    },
+    "name": "Lone Wolf"
+  },
+  {
+    "id": {
+      "hex": "000056",
+      "length": 3,
+      "dec": 86
+    },
+    "name": "Studio Technologies"
+  },
+  {
+    "id": {
+      "hex": "000057",
+      "length": 3,
+      "dec": 87
+    },
+    "name": "Peterson Electro-Musical Product"
+  },
+  {
+    "id": {
+      "hex": "000058",
+      "length": 3,
+      "dec": 88
+    },
+    "name": "Atari"
+  },
+  {
+    "id": {
+      "hex": "000059",
+      "length": 3,
+      "dec": 89
+    },
+    "name": "Marion Systems"
+  },
+  {
+    "id": {
+      "hex": "00005a",
+      "length": 3,
+      "dec": 90
+    },
+    "name": "Design Event"
+  },
+  {
+    "id": {
+      "hex": "00005b",
+      "length": 3,
+      "dec": 91
+    },
+    "name": "Winjammer Software"
+  },
+  {
+    "id": {
+      "hex": "00005c",
+      "length": 3,
+      "dec": 92
+    },
+    "name": "AT&T"
+  },
+  {
+    "id": {
+      "hex": "00005d",
+      "length": 3,
+      "dec": 93
+    },
+    "name": "Reserved"
+  },
+  {
+    "id": {
+      "hex": "00005e",
+      "length": 3,
+      "dec": 94
+    },
+    "name": "Symetrix"
+  },
+  {
+    "id": {
+      "hex": "00005f",
+      "length": 3,
+      "dec": 95
+    },
+    "name": "MIDI the World"
+  },
+  {
+    "id": {
+      "hex": "000060",
+      "length": 3,
+      "dec": 96
+    },
+    "name": "Spatializer"
+  },
+  {
+    "id": {
+      "hex": "000061",
+      "length": 3,
+      "dec": 97
+    },
+    "name": "Micros 'N MIDI"
+  },
+  {
+    "id": {
+      "hex": "000062",
+      "length": 3,
+      "dec": 98
+    },
+    "name": "Accordians International"
+  },
+  {
+    "id": {
+      "hex": "000063",
+      "length": 3,
+      "dec": 99
+    },
+    "name": "EuPhonics"
+  },
+  {
+    "id": {
+      "hex": "000064",
+      "length": 3,
+      "dec": 100
+    },
+    "name": "Musonix"
+  },
+  {
+    "id": {
+      "hex": "000065",
+      "length": 3,
+      "dec": 101
+    },
+    "name": "Turtle Beach Systems"
+  },
+  {
+    "id": {
+      "hex": "000066",
+      "length": 3,
+      "dec": 102
+    },
+    "name": "Mackie"
+  },
+  {
+    "id": {
+      "hex": "000067",
+      "length": 3,
+      "dec": 103
+    },
+    "name": "Compuserve"
+  },
+  {
+    "id": {
+      "hex": "000068",
+      "length": 3,
+      "dec": 104
+    },
+    "name": "BEC Technologies"
+  },
+  {
+    "id": {
+      "hex": "000069",
+      "length": 3,
+      "dec": 105
+    },
+    "name": "QRS Music"
+  },
+  {
+    "id": {
+      "hex": "00006a",
+      "length": 3,
+      "dec": 106
+    },
+    "name": "P.G. Music"
+  },
+  {
+    "id": {
+      "hex": "00006b",
+      "length": 3,
+      "dec": 107
+    },
+    "name": "Sierra Semiconductor"
+  },
+  {
+    "id": {
+      "hex": "00006c",
+      "length": 3,
+      "dec": 108
+    },
+    "name": "EpiGraf"
+  },
+  {
+    "id": {
+      "hex": "00006d",
+      "length": 3,
+      "dec": 109
+    },
+    "name": "Electronics Diversified"
+  },
+  {
+    "id": {
+      "hex": "00006e",
+      "length": 3,
+      "dec": 110
+    },
+    "name": "Tune 1000"
+  },
+  {
+    "id": {
+      "hex": "00006f",
+      "length": 3,
+      "dec": 111
+    },
+    "name": "Advanced Micro Devices"
+  },
+  {
+    "id": {
+      "hex": "000070",
+      "length": 3,
+      "dec": 112
+    },
+    "name": "Mediamation"
+  },
+  {
+    "id": {
+      "hex": "000071",
+      "length": 3,
+      "dec": 113
+    },
+    "name": "Sabine"
+  },
+  {
+    "id": {
+      "hex": "000072",
+      "length": 3,
+      "dec": 114
+    },
+    "name": "Woog Labs"
+  },
+  {
+    "id": {
+      "hex": "000073",
+      "length": 3,
+      "dec": 115
+    },
+    "name": "Micropolis"
+  },
+  {
+    "id": {
+      "hex": "000074",
+      "length": 3,
+      "dec": 116
+    },
+    "name": "Ta Horng Musical Instrument"
+  },
+  {
+    "id": {
+      "hex": "000075",
+      "length": 3,
+      "dec": 117
+    },
+    "name": "e-Tek Labs"
+  },
+  {
+    "id": {
+      "hex": "000076",
+      "length": 3,
+      "dec": 118
+    },
+    "name": "Electro-Voice"
+  },
+  {
+    "id": {
+      "hex": "000077",
+      "length": 3,
+      "dec": 119
+    },
+    "name": "Midisoft"
+  },
+  {
+    "id": {
+      "hex": "000078",
+      "length": 3,
+      "dec": 120
+    },
+    "name": "QSound Labs"
+  },
+  {
+    "id": {
+      "hex": "000079",
+      "length": 3,
+      "dec": 121
+    },
+    "name": "Westrex"
+  },
+  {
+    "id": {
+      "hex": "00007a",
+      "length": 3,
+      "dec": 122
+    },
+    "name": "Nvidia"
+  },
+  {
+    "id": {
+      "hex": "00007b",
+      "length": 3,
+      "dec": 123
+    },
+    "name": "ESS Technology"
+  },
+  {
+    "id": {
+      "hex": "00007c",
+      "length": 3,
+      "dec": 124
+    },
+    "name": "Media Trix Peripherals"
+  },
+  {
+    "id": {
+      "hex": "00007d",
+      "length": 3,
+      "dec": 125
+    },
+    "name": "Brooktree"
+  },
+  {
+    "id": {
+      "hex": "00007e",
+      "length": 3,
+      "dec": 126
+    },
+    "name": "Otari"
+  },
+  {
+    "id": {
+      "hex": "00007f",
+      "length": 3,
+      "dec": 127
+    },
+    "name": "Key Electronics"
+  },
+  {
+    "id": {
+      "hex": "000100",
+      "length": 3,
+      "dec": 256
+    },
+    "name": "Shure"
+  },
+  {
+    "id": {
+      "hex": "000101",
+      "length": 3,
+      "dec": 257
+    },
+    "name": "AuraSound"
+  },
+  {
+    "id": {
+      "hex": "000102",
+      "length": 3,
+      "dec": 258
+    },
+    "name": "Crystal Semiconductor"
+  },
+  {
+    "id": {
+      "hex": "000103",
+      "length": 3,
+      "dec": 259
+    },
+    "name": "Conexant"
+  },
+  {
+    "id": {
+      "hex": "000104",
+      "length": 3,
+      "dec": 260
+    },
+    "name": "Silicon Graphics"
+  },
+  {
+    "id": {
+      "hex": "000105",
+      "length": 3,
+      "dec": 261
+    },
+    "name": "M-Audio"
+  },
+  {
+    "id": {
+      "hex": "000106",
+      "length": 3,
+      "dec": 262
+    },
+    "name": "PreSonus"
+  },
+  {
+    "id": {
+      "hex": "000108",
+      "length": 3,
+      "dec": 264
+    },
+    "name": "Topaz Enterprises"
+  },
+  {
+    "id": {
+      "hex": "000109",
+      "length": 3,
+      "dec": 265
+    },
+    "name": "Cast Lighting"
+  },
+  {
+    "id": {
+      "hex": "00010a",
+      "length": 3,
+      "dec": 266
+    },
+    "name": "Microsoft"
+  },
+  {
+    "id": {
+      "hex": "00010b",
+      "length": 3,
+      "dec": 267
+    },
+    "name": "Sonic Foundry"
+  },
+  {
+    "id": {
+      "hex": "00010c",
+      "length": 3,
+      "dec": 268
+    },
+    "name": "Line 6"
+  },
+  {
+    "id": {
+      "hex": "00010d",
+      "length": 3,
+      "dec": 269
+    },
+    "name": "Beatnik"
+  },
+  {
+    "id": {
+      "hex": "00010e",
+      "length": 3,
+      "dec": 270
+    },
+    "name": "Van Koevering"
+  },
+  {
+    "id": {
+      "hex": "00010f",
+      "length": 3,
+      "dec": 271
+    },
+    "name": "Altech Systems"
+  },
+  {
+    "id": {
+      "hex": "000110",
+      "length": 3,
+      "dec": 272
+    },
+    "name": "S & S Research"
+  },
+  {
+    "id": {
+      "hex": "000111",
+      "length": 3,
+      "dec": 273
+    },
+    "name": "VLSI Technology"
+  },
+  {
+    "id": {
+      "hex": "000112",
+      "length": 3,
+      "dec": 274
+    },
+    "name": "Chromatic Research"
+  },
+  {
+    "id": {
+      "hex": "000113",
+      "length": 3,
+      "dec": 275
+    },
+    "name": "Sapphire"
+  },
+  {
+    "id": {
+      "hex": "000114",
+      "length": 3,
+      "dec": 276
+    },
+    "name": "IDRC"
+  },
+  {
+    "id": {
+      "hex": "000115",
+      "length": 3,
+      "dec": 277
+    },
+    "name": "Justonic Tuning"
+  },
+  {
+    "id": {
+      "hex": "000116",
+      "length": 3,
+      "dec": 278
+    },
+    "name": "TorComp Research"
+  },
+  {
+    "id": {
+      "hex": "000117",
+      "length": 3,
+      "dec": 279
+    },
+    "name": "Newtek"
+  },
+  {
+    "id": {
+      "hex": "000118",
+      "length": 3,
+      "dec": 280
+    },
+    "name": "Sound Sculpture"
+  },
+  {
+    "id": {
+      "hex": "000119",
+      "length": 3,
+      "dec": 281
+    },
+    "name": "Walker Technical"
+  },
+  {
+    "id": {
+      "hex": "00011a",
+      "length": 3,
+      "dec": 282
+    },
+    "name": "Digital Harmony"
+  },
+  {
+    "id": {
+      "hex": "00011b",
+      "length": 3,
+      "dec": 283
+    },
+    "name": "InVision Interactive"
+  },
+  {
+    "id": {
+      "hex": "00011c",
+      "length": 3,
+      "dec": 284
+    },
+    "name": "T-Square Design"
+  },
+  {
+    "id": {
+      "hex": "00011d",
+      "length": 3,
+      "dec": 285
+    },
+    "name": "Nemesys Music Technology"
+  },
+  {
+    "id": {
+      "hex": "00011e",
+      "length": 3,
+      "dec": 286
+    },
+    "name": "DBX Professional"
+  },
+  {
+    "id": {
+      "hex": "00011f",
+      "length": 3,
+      "dec": 287
+    },
+    "name": "Syndyne"
+  },
+  {
+    "id": {
+      "hex": "000120",
+      "length": 3,
+      "dec": 288
+    },
+    "name": "Bitheadz"
+  },
+  {
+    "id": {
+      "hex": "000121",
+      "length": 3,
+      "dec": 289
+    },
+    "name": "Cakewalk Music Software"
+  },
+  {
+    "id": {
+      "hex": "000122",
+      "length": 3,
+      "dec": 290
+    },
+    "name": "Analog Devices"
+  },
+  {
+    "id": {
+      "hex": "000123",
+      "length": 3,
+      "dec": 291
+    },
+    "name": "National Semiconductor"
+  },
+  {
+    "id": {
+      "hex": "000124",
+      "length": 3,
+      "dec": 292
+    },
+    "name": "Boom Theory"
+  },
+  {
+    "id": {
+      "hex": "000125",
+      "length": 3,
+      "dec": 293
+    },
+    "name": "Virtual DSP"
+  },
+  {
+    "id": {
+      "hex": "000126",
+      "length": 3,
+      "dec": 294
+    },
+    "name": "Antares Systems"
+  },
+  {
+    "id": {
+      "hex": "000127",
+      "length": 3,
+      "dec": 295
+    },
+    "name": "Angel Software"
+  },
+  {
+    "id": {
+      "hex": "000128",
+      "length": 3,
+      "dec": 296
+    },
+    "name": "St Louis Music"
+  },
+  {
+    "id": {
+      "hex": "000129",
+      "length": 3,
+      "dec": 297
+    },
+    "name": "Passport Music Software"
+  },
+  {
+    "id": {
+      "hex": "00012a",
+      "length": 3,
+      "dec": 298
+    },
+    "name": "Ashley Audio"
+  },
+  {
+    "id": {
+      "hex": "00012b",
+      "length": 3,
+      "dec": 299
+    },
+    "name": "Vari-Lite"
+  },
+  {
+    "id": {
+      "hex": "00012c",
+      "length": 3,
+      "dec": 300
+    },
+    "name": "Summit Audio"
+  },
+  {
+    "id": {
+      "hex": "00012d",
+      "length": 3,
+      "dec": 301
+    },
+    "name": "Aureal Semiconductor"
+  },
+  {
+    "id": {
+      "hex": "00012e",
+      "length": 3,
+      "dec": 302
+    },
+    "name": "SeaSound"
+  },
+  {
+    "id": {
+      "hex": "00012f",
+      "length": 3,
+      "dec": 303
+    },
+    "name": "U.S. Robotics"
+  },
+  {
+    "id": {
+      "hex": "000130",
+      "length": 3,
+      "dec": 304
+    },
+    "name": "Aurisis Research"
+  },
+  {
+    "id": {
+      "hex": "000131",
+      "length": 3,
+      "dec": 305
+    },
+    "name": "Nearfield Research"
+  },
+  {
+    "id": {
+      "hex": "000132",
+      "length": 3,
+      "dec": 306
+    },
+    "name": "FM7"
+  },
+  {
+    "id": {
+      "hex": "000133",
+      "length": 3,
+      "dec": 307
+    },
+    "name": "Swivel Systems"
+  },
+  {
+    "id": {
+      "hex": "000134",
+      "length": 3,
+      "dec": 308
+    },
+    "name": "Hyperactive Audio Systems"
+  },
+  {
+    "id": {
+      "hex": "000135",
+      "length": 3,
+      "dec": 309
+    },
+    "name": "MidiLite"
+  },
+  {
+    "id": {
+      "hex": "000136",
+      "length": 3,
+      "dec": 310
+    },
+    "name": "Radikal Technologies"
+  },
+  {
+    "id": {
+      "hex": "000137",
+      "length": 3,
+      "dec": 311
+    },
+    "name": "Roger Linn Design"
+  },
+  {
+    "id": {
+      "hex": "000138",
+      "length": 3,
+      "dec": 312
+    },
+    "name": "TC-Helicon Vocal Technologies"
+  },
+  {
+    "id": {
+      "hex": "000139",
+      "length": 3,
+      "dec": 313
+    },
+    "name": "Event Electronics"
+  },
+  {
+    "id": {
+      "hex": "00013a",
+      "length": 3,
+      "dec": 314
+    },
+    "name": "Sonic Network"
+  },
+  {
+    "id": {
+      "hex": "00013b",
+      "length": 3,
+      "dec": 315
+    },
+    "name": "Realtime Music Solutions"
+  },
+  {
+    "id": {
+      "hex": "00013c",
+      "length": 3,
+      "dec": 316
+    },
+    "name": "Apogee Digital"
+  },
+  {
+    "id": {
+      "hex": "00013d",
+      "length": 3,
+      "dec": 317
+    },
+    "name": "Classical Organs"
+  },
+  {
+    "id": {
+      "hex": "00013e",
+      "length": 3,
+      "dec": 318
+    },
+    "name": "Microtools"
+  },
+  {
+    "id": {
+      "hex": "00013f",
+      "length": 3,
+      "dec": 319
+    },
+    "name": "Numark Industries"
+  },
+  {
+    "id": {
+      "hex": "000140",
+      "length": 3,
+      "dec": 320
+    },
+    "name": "Frontier Design Group"
+  },
+  {
+    "id": {
+      "hex": "000141",
+      "length": 3,
+      "dec": 321
+    },
+    "name": "Recordare"
+  },
+  {
+    "id": {
+      "hex": "000142",
+      "length": 3,
+      "dec": 322
+    },
+    "name": "Starr Labs"
+  },
+  {
+    "id": {
+      "hex": "000143",
+      "length": 3,
+      "dec": 323
+    },
+    "name": "Voyager Sound"
+  },
+  {
+    "id": {
+      "hex": "000144",
+      "length": 3,
+      "dec": 324
+    },
+    "name": "Manifold Labs"
+  },
+  {
+    "id": {
+      "hex": "000145",
+      "length": 3,
+      "dec": 325
+    },
+    "name": "Aviom"
+  },
+  {
+    "id": {
+      "hex": "000146",
+      "length": 3,
+      "dec": 326
+    },
+    "name": "Mixmeister Technology"
+  },
+  {
+    "id": {
+      "hex": "000147",
+      "length": 3,
+      "dec": 327
+    },
+    "name": "Notation Software"
+  },
+  {
+    "id": {
+      "hex": "000148",
+      "length": 3,
+      "dec": 328
+    },
+    "name": "Mercurial Communications"
+  },
+  {
+    "id": {
+      "hex": "000149",
+      "length": 3,
+      "dec": 329
+    },
+    "name": "Wave Arts"
+  },
+  {
+    "id": {
+      "hex": "00014a",
+      "length": 3,
+      "dec": 330
+    },
+    "name": "Logic Sequencing Devices"
+  },
+  {
+    "id": {
+      "hex": "00014b",
+      "length": 3,
+      "dec": 331
+    },
+    "name": "Axess Electronics"
+  },
+  {
+    "id": {
+      "hex": "00014c",
+      "length": 3,
+      "dec": 332
+    },
+    "name": "Muse Research"
+  },
+  {
+    "id": {
+      "hex": "00014d",
+      "length": 3,
+      "dec": 333
+    },
+    "name": "Open Labs"
+  },
+  {
+    "id": {
+      "hex": "00014e",
+      "length": 3,
+      "dec": 334
+    },
+    "name": "Guillemot"
+  },
+  {
+    "id": {
+      "hex": "00014f",
+      "length": 3,
+      "dec": 335
+    },
+    "name": "Samson Technologies"
+  },
+  {
+    "id": {
+      "hex": "000150",
+      "length": 3,
+      "dec": 336
+    },
+    "name": "Electronic Theatre Controls"
+  },
+  {
+    "id": {
+      "hex": "000151",
+      "length": 3,
+      "dec": 337
+    },
+    "name": "Blackberry"
+  },
+  {
+    "id": {
+      "hex": "000152",
+      "length": 3,
+      "dec": 338
+    },
+    "name": "Mobileer"
+  },
+  {
+    "id": {
+      "hex": "000153",
+      "length": 3,
+      "dec": 339
+    },
+    "name": "Synthogy"
+  },
+  {
+    "id": {
+      "hex": "000154",
+      "length": 3,
+      "dec": 340
+    },
+    "name": "Lynx Studio Technology"
+  },
+  {
+    "id": {
+      "hex": "000155",
+      "length": 3,
+      "dec": 341
+    },
+    "name": "Damage Control Engineering"
+  },
+  {
+    "id": {
+      "hex": "000156",
+      "length": 3,
+      "dec": 342
+    },
+    "name": "Yost Engineering"
+  },
+  {
+    "id": {
+      "hex": "000157",
+      "length": 3,
+      "dec": 343
+    },
+    "name": "Brooks & Forsman Designs"
+  },
+  {
+    "id": {
+      "hex": "000158",
+      "length": 3,
+      "dec": 344
+    },
+    "name": "Infinite Response"
+  },
+  {
+    "id": {
+      "hex": "000159",
+      "length": 3,
+      "dec": 345
+    },
+    "name": "Garritan"
+  },
+  {
+    "id": {
+      "hex": "00015a",
+      "length": 3,
+      "dec": 346
+    },
+    "name": "Plogue Art et Technologie"
+  },
+  {
+    "id": {
+      "hex": "00015b",
+      "length": 3,
+      "dec": 347
+    },
+    "name": "RJM Music Technology"
+  },
+  {
+    "id": {
+      "hex": "00015c",
+      "length": 3,
+      "dec": 348
+    },
+    "name": "Custom Solutions Software"
+  },
+  {
+    "id": {
+      "hex": "00015d",
+      "length": 3,
+      "dec": 349
+    },
+    "name": "Sonarcana"
+  },
+  {
+    "id": {
+      "hex": "00015e",
+      "length": 3,
+      "dec": 350
+    },
+    "name": "Centrance"
+  },
+  {
+    "id": {
+      "hex": "00015f",
+      "length": 3,
+      "dec": 351
+    },
+    "name": "Kesumo"
+  },
+  {
+    "id": {
+      "hex": "000160",
+      "length": 3,
+      "dec": 352
+    },
+    "name": "Stanton"
+  },
+  {
+    "id": {
+      "hex": "000161",
+      "length": 3,
+      "dec": 353
+    },
+    "name": "Livid"
+  },
+  {
+    "id": {
+      "hex": "000162",
+      "length": 3,
+      "dec": 354
+    },
+    "name": "First Act"
+  },
+  {
+    "id": {
+      "hex": "000163",
+      "length": 3,
+      "dec": 355
+    },
+    "name": "Pygraphics"
+  },
+  {
+    "id": {
+      "hex": "000164",
+      "length": 3,
+      "dec": 356
+    },
+    "name": "Panadigm Innovations"
+  },
+  {
+    "id": {
+      "hex": "000165",
+      "length": 3,
+      "dec": 357
+    },
+    "name": "Avedis Zildjian"
+  },
+  {
+    "id": {
+      "hex": "000166",
+      "length": 3,
+      "dec": 358
+    },
+    "name": "Auvital Music"
+  },
+  {
+    "id": {
+      "hex": "000167",
+      "length": 3,
+      "dec": 359
+    },
+    "name": "You Rock Guitar"
+  },
+  {
+    "id": {
+      "hex": "000168",
+      "length": 3,
+      "dec": 360
+    },
+    "name": "Chris Grigg Designs"
+  },
+  {
+    "id": {
+      "hex": "000169",
+      "length": 3,
+      "dec": 361
+    },
+    "name": "Slate Digital"
+  },
+  {
+    "id": {
+      "hex": "00016a",
+      "length": 3,
+      "dec": 362
+    },
+    "name": "Mixware"
+  },
+  {
+    "id": {
+      "hex": "00016b",
+      "length": 3,
+      "dec": 363
+    },
+    "name": "Social Entropy"
+  },
+  {
+    "id": {
+      "hex": "00016c",
+      "length": 3,
+      "dec": 364
+    },
+    "name": "Source Audio"
+  },
+  {
+    "id": {
+      "hex": "00016d",
+      "length": 3,
+      "dec": 365
+    },
+    "name": "Ernie Ball"
+  },
+  {
+    "id": {
+      "hex": "00016e",
+      "length": 3,
+      "dec": 366
+    },
+    "name": "Fishman"
+  },
+  {
+    "id": {
+      "hex": "00016f",
+      "length": 3,
+      "dec": 367
+    },
+    "name": "Custom Audio Electronics"
+  },
+  {
+    "id": {
+      "hex": "000170",
+      "length": 3,
+      "dec": 368
+    },
+    "name": "American Audio"
+  },
+  {
+    "id": {
+      "hex": "000171",
+      "length": 3,
+      "dec": 369
+    },
+    "name": "Mega Lite"
+  },
+  {
+    "id": {
+      "hex": "000172",
+      "length": 3,
+      "dec": 370
+    },
+    "name": "Kilpatrick Audio"
+  },
+  {
+    "id": {
+      "hex": "000173",
+      "length": 3,
+      "dec": 371
+    },
+    "name": "iConnectivity"
+  },
+  {
+    "id": {
+      "hex": "000174",
+      "length": 3,
+      "dec": 372
+    },
+    "name": "Fractal Audio"
+  },
+  {
+    "id": {
+      "hex": "000175",
+      "length": 3,
+      "dec": 373
+    },
+    "name": "NetLogic Microsystems"
+  },
+  {
+    "id": {
+      "hex": "000176",
+      "length": 3,
+      "dec": 374
+    },
+    "name": "Music Computing"
+  },
+  {
+    "id": {
+      "hex": "000177",
+      "length": 3,
+      "dec": 375
+    },
+    "name": "Nektar Technology"
+  },
+  {
+    "id": {
+      "hex": "000178",
+      "length": 3,
+      "dec": 376
+    },
+    "name": "Zenph Sound Innovations"
+  },
+  {
+    "id": {
+      "hex": "000179",
+      "length": 3,
+      "dec": 377
+    },
+    "name": "DJ TechTools"
+  },
+  {
+    "id": {
+      "hex": "00017a",
+      "length": 3,
+      "dec": 378
+    },
+    "name": "Rezonance Labs"
+  },
+  {
+    "id": {
+      "hex": "00017b",
+      "length": 3,
+      "dec": 379
+    },
+    "name": "Decibel Eleven"
+  },
+  {
+    "id": {
+      "hex": "00017c",
+      "length": 3,
+      "dec": 380
+    },
+    "name": "CNMAT"
+  },
+  {
+    "id": {
+      "hex": "00017d",
+      "length": 3,
+      "dec": 381
+    },
+    "name": "Media Overkill"
+  },
+  {
+    "id": {
+      "hex": "00017e",
+      "length": 3,
+      "dec": 382
+    },
+    "name": "Confusion Studios"
+  },
+  {
+    "id": {
+      "hex": "00017f",
+      "length": 3,
+      "dec": 383
+    },
+    "name": "moForte"
+  },
+  {
+    "id": {
+      "hex": "000200",
+      "length": 3,
+      "dec": 512
+    },
+    "name": "Miselu"
+  },
+  {
+    "id": {
+      "hex": "000201",
+      "length": 3,
+      "dec": 513
+    },
+    "name": "Amelia's Compass"
+  },
+  {
+    "id": {
+      "hex": "000202",
+      "length": 3,
+      "dec": 514
+    },
+    "name": "Zivix"
+  },
+  {
+    "id": {
+      "hex": "000203",
+      "length": 3,
+      "dec": 515
+    },
+    "name": "Artiphon"
+  },
+  {
+    "id": {
+      "hex": "000204",
+      "length": 3,
+      "dec": 516
+    },
+    "name": "Synclavier Digital"
+  },
+  {
+    "id": {
+      "hex": "000205",
+      "length": 3,
+      "dec": 517
+    },
+    "name": "Light & Sound Control Devices"
+  },
+  {
+    "id": {
+      "hex": "000206",
+      "length": 3,
+      "dec": 518
+    },
+    "name": "Retronyms"
+  },
+  {
+    "id": {
+      "hex": "000207",
+      "length": 3,
+      "dec": 519
+    },
+    "name": "JS Technologies"
+  },
+  {
+    "id": {
+      "hex": "000208",
+      "length": 3,
+      "dec": 520
+    },
+    "name": "Quicco Sound"
+  },
+  {
+    "id": {
+      "hex": "000209",
+      "length": 3,
+      "dec": 521
+    },
+    "name": "A-Designs Audio"
+  },
+  {
+    "id": {
+      "hex": "00020a",
+      "length": 3,
+      "dec": 522
+    },
+    "name": "McCarthy Music"
+  },
+  {
+    "id": {
+      "hex": "00020b",
+      "length": 3,
+      "dec": 523
+    },
+    "name": "Denon DJ"
+  },
+  {
+    "id": {
+      "hex": "00020c",
+      "length": 3,
+      "dec": 524
+    },
+    "name": "Keith Robert Murray"
+  },
+  {
+    "id": {
+      "hex": "00020d",
+      "length": 3,
+      "dec": 525
+    },
+    "name": "Google"
+  },
+  {
+    "id": {
+      "hex": "00020e",
+      "length": 3,
+      "dec": 526
+    },
+    "name": "ISP Technologies"
+  },
+  {
+    "id": {
+      "hex": "00020f",
+      "length": 3,
+      "dec": 527
+    },
+    "name": "Abstrakt Instruments"
+  },
+  {
+    "id": {
+      "hex": "000210",
+      "length": 3,
+      "dec": 528
+    },
+    "name": "Meris"
+  },
+  {
+    "id": {
+      "hex": "000211",
+      "length": 3,
+      "dec": 529
+    },
+    "name": "Sensorpoint"
+  },
+  {
+    "id": {
+      "hex": "000212",
+      "length": 3,
+      "dec": 530
+    },
+    "name": "Hi-Z Labs"
+  },
+  {
+    "id": {
+      "hex": "000213",
+      "length": 3,
+      "dec": 531
+    },
+    "name": "Imitone"
+  },
+  {
+    "id": {
+      "hex": "000214",
+      "length": 3,
+      "dec": 532
+    },
+    "name": "Intellijel Designs"
+  },
+  {
+    "id": {
+      "hex": "000215",
+      "length": 3,
+      "dec": 533
+    },
+    "name": "Dasz Instruments"
+  },
+  {
+    "id": {
+      "hex": "000216",
+      "length": 3,
+      "dec": 534
+    },
+    "name": "Remidi"
+  },
+  {
+    "id": {
+      "hex": "000217",
+      "length": 3,
+      "dec": 535
+    },
+    "name": "Disaster Area Designs"
+  },
+  {
+    "id": {
+      "hex": "000218",
+      "length": 3,
+      "dec": 536
+    },
+    "name": "Universal Audio"
+  },
+  {
+    "id": {
+      "hex": "000219",
+      "length": 3,
+      "dec": 537
+    },
+    "name": "Carter Duncan"
+  },
+  {
+    "id": {
+      "hex": "00021a",
+      "length": 3,
+      "dec": 538
+    },
+    "name": "Essential Technology"
+  },
+  {
+    "id": {
+      "hex": "00021b",
+      "length": 3,
+      "dec": 539
+    },
+    "name": "Cantux Research"
+  },
+  {
+    "id": {
+      "hex": "00021c",
+      "length": 3,
+      "dec": 540
+    },
+    "name": "Hummel Technologies"
+  },
+  {
+    "id": {
+      "hex": "00021d",
+      "length": 3,
+      "dec": 541
+    },
+    "name": "Sensel"
+  },
+  {
+    "id": {
+      "hex": "00021e",
+      "length": 3,
+      "dec": 542
+    },
+    "name": "DBML Group"
+  },
+  {
+    "id": {
+      "hex": "00021f",
+      "length": 3,
+      "dec": 543
+    },
+    "name": "Madrona Labs"
+  },
+  {
+    "id": {
+      "hex": "000220",
+      "length": 3,
+      "dec": 544
+    },
+    "name": "Mesa Boogie"
+  },
+  {
+    "id": {
+      "hex": "000221",
+      "length": 3,
+      "dec": 545
+    },
+    "name": "Effigy Labs"
+  },
+  {
+    "id": {
+      "hex": "000222",
+      "length": 3,
+      "dec": 546
+    },
+    "name": "MK2 Image"
+  },
+  {
+    "id": {
+      "hex": "000223",
+      "length": 3,
+      "dec": 547
+    },
+    "name": "Red Panda"
+  },
+  {
+    "id": {
+      "hex": "000224",
+      "length": 3,
+      "dec": 548
+    },
+    "name": "OnSong"
+  },
+  {
+    "id": {
+      "hex": "000225",
+      "length": 3,
+      "dec": 549
+    },
+    "name": "Jamboxx"
+  },
+  {
+    "id": {
+      "hex": "000226",
+      "length": 3,
+      "dec": 550
+    },
+    "name": "Electro-Harmonix"
+  },
+  {
+    "id": {
+      "hex": "000227",
+      "length": 3,
+      "dec": 551
+    },
+    "name": "RnD64"
+  },
+  {
+    "id": {
+      "hex": "000228",
+      "length": 3,
+      "dec": 552
+    },
+    "name": "Neunaber Technology"
+  },
+  {
+    "id": {
+      "hex": "000229",
+      "length": 3,
+      "dec": 553
+    },
+    "name": "Kaom"
+  },
+  {
+    "id": {
+      "hex": "00022a",
+      "length": 3,
+      "dec": 554
+    },
+    "name": "Hallowell"
+  },
+  {
+    "id": {
+      "hex": "00022b",
+      "length": 3,
+      "dec": 555
+    },
+    "name": "Sound Devices"
+  },
+  {
+    "id": {
+      "hex": "00022c",
+      "length": 3,
+      "dec": 556
+    },
+    "name": "Spectrasonics"
+  },
+  {
+    "id": {
+      "hex": "00022d",
+      "length": 3,
+      "dec": 557
+    },
+    "name": "Second Sound"
+  },
+  {
+    "id": {
+      "hex": "00022e",
+      "length": 3,
+      "dec": 558
+    },
+    "name": "8eo"
+  },
+  {
+    "id": {
+      "hex": "00022f",
+      "length": 3,
+      "dec": 559
+    },
+    "name": "VIDVOX"
+  },
+  {
+    "id": {
+      "hex": "000230",
+      "length": 3,
+      "dec": 560
+    },
+    "name": "Matthews Effects"
+  },
+  {
+    "id": {
+      "hex": "002000",
+      "length": 3,
+      "dec": 8192
+    },
+    "name": "Dream SAS"
+  },
+  {
+    "id": {
+      "hex": "002001",
+      "length": 3,
+      "dec": 8193
+    },
+    "name": "Strand Lighting"
+  },
+  {
+    "id": {
+      "hex": "002002",
+      "length": 3,
+      "dec": 8194
+    },
+    "name": "Amek Div of Harman Industries"
+  },
+  {
+    "id": {
+      "hex": "002003",
+      "length": 3,
+      "dec": 8195
+    },
+    "name": "Casa Di Risparmio Di Loreto"
+  },
+  {
+    "id": {
+      "hex": "002004",
+      "length": 3,
+      "dec": 8196
+    },
+    "name": "Böhm Elektronik"
+  },
+  {
+    "id": {
+      "hex": "002005",
+      "length": 3,
+      "dec": 8197
+    },
+    "name": "Syntec Digital Audio"
+  },
+  {
+    "id": {
+      "hex": "002006",
+      "length": 3,
+      "dec": 8198
+    },
+    "name": "Trident Audio Developments"
+  },
+  {
+    "id": {
+      "hex": "002007",
+      "length": 3,
+      "dec": 8199
+    },
+    "name": "Real World Studio"
+  },
+  {
+    "id": {
+      "hex": "002008",
+      "length": 3,
+      "dec": 8200
+    },
+    "name": "M-Audio"
+  },
+  {
+    "id": {
+      "hex": "002009",
+      "length": 3,
+      "dec": 8201
+    },
+    "name": "Yes Technology"
+  },
+  {
+    "id": {
+      "hex": "00200a",
+      "length": 3,
+      "dec": 8202
+    },
+    "name": "Audiomatica"
+  },
+  {
+    "id": {
+      "hex": "00200b",
+      "length": 3,
+      "dec": 8203
+    },
+    "name": "Bontempi"
+  },
+  {
+    "id": {
+      "hex": "00200c",
+      "length": 3,
+      "dec": 8204
+    },
+    "name": "F.B.T. Elettronica"
+  },
+  {
+    "id": {
+      "hex": "00200d",
+      "length": 3,
+      "dec": 8205
+    },
+    "name": "MidiTemp"
+  },
+  {
+    "id": {
+      "hex": "00200e",
+      "length": 3,
+      "dec": 8206
+    },
+    "name": "LA Audio"
+  },
+  {
+    "id": {
+      "hex": "00200f",
+      "length": 3,
+      "dec": 8207
+    },
+    "name": "Zero 88 Lighting"
+  },
+  {
+    "id": {
+      "hex": "002010",
+      "length": 3,
+      "dec": 8208
+    },
+    "name": "Micon Audio Electronics"
+  },
+  {
+    "id": {
+      "hex": "002011",
+      "length": 3,
+      "dec": 8209
+    },
+    "name": "Forefront Technology"
+  },
+  {
+    "id": {
+      "hex": "002012",
+      "length": 3,
+      "dec": 8210
+    },
+    "name": "Studio Audio and Video"
+  },
+  {
+    "id": {
+      "hex": "002013",
+      "length": 3,
+      "dec": 8211
+    },
+    "name": "Kenton Electronics"
+  },
+  {
+    "id": {
+      "hex": "002014",
+      "length": 3,
+      "dec": 8212
+    },
+    "name": "Celco"
+  },
+  {
+    "id": {
+      "hex": "002015",
+      "length": 3,
+      "dec": 8213
+    },
+    "name": "ADB"
+  },
+  {
+    "id": {
+      "hex": "002016",
+      "length": 3,
+      "dec": 8214
+    },
+    "name": "Marshall Products"
+  },
+  {
+    "id": {
+      "hex": "002017",
+      "length": 3,
+      "dec": 8215
+    },
+    "name": "DDA"
+  },
+  {
+    "id": {
+      "hex": "002018",
+      "length": 3,
+      "dec": 8216
+    },
+    "name": "BSS Audio"
+  },
+  {
+    "id": {
+      "hex": "002019",
+      "length": 3,
+      "dec": 8217
+    },
+    "name": "MA Lighting Technology"
+  },
+  {
+    "id": {
+      "hex": "00201a",
+      "length": 3,
+      "dec": 8218
+    },
+    "name": "Fatar"
+  },
+  {
+    "id": {
+      "hex": "00201b",
+      "length": 3,
+      "dec": 8219
+    },
+    "name": "QSC Audio Products"
+  },
+  {
+    "id": {
+      "hex": "00201c",
+      "length": 3,
+      "dec": 8220
+    },
+    "name": "Artisan Clasic Organ"
+  },
+  {
+    "id": {
+      "hex": "00201d",
+      "length": 3,
+      "dec": 8221
+    },
+    "name": "Orla"
+  },
+  {
+    "id": {
+      "hex": "00201e",
+      "length": 3,
+      "dec": 8222
+    },
+    "name": "Pinnacle Audio"
+  },
+  {
+    "id": {
+      "hex": "00201f",
+      "length": 3,
+      "dec": 8223
+    },
+    "name": "TC Electronics"
+  },
+  {
+    "id": {
+      "hex": "002020",
+      "length": 3,
+      "dec": 8224
+    },
+    "name": "Doepfer Musikelektronik"
+  },
+  {
+    "id": {
+      "hex": "002021",
+      "length": 3,
+      "dec": 8225
+    },
+    "name": "Creative"
+  },
+  {
+    "id": {
+      "hex": "002022",
+      "length": 3,
+      "dec": 8226
+    },
+    "name": "Seyddo"
+  },
+  {
+    "id": {
+      "hex": "002023",
+      "length": 3,
+      "dec": 8227
+    },
+    "name": "LG Electronics"
+  },
+  {
+    "id": {
+      "hex": "002024",
+      "length": 3,
+      "dec": 8228
+    },
+    "name": "Midisoft"
+  },
+  {
+    "id": {
+      "hex": "002025",
+      "length": 3,
+      "dec": 8229
+    },
+    "name": "Samick"
+  },
+  {
+    "id": {
+      "hex": "002026",
+      "length": 3,
+      "dec": 8230
+    },
+    "name": "Penny and Giles"
+  },
+  {
+    "id": {
+      "hex": "002027",
+      "length": 3,
+      "dec": 8231
+    },
+    "name": "Acorn Computer"
+  },
+  {
+    "id": {
+      "hex": "002028",
+      "length": 3,
+      "dec": 8232
+    },
+    "name": "LSC Electronics"
+  },
+  {
+    "id": {
+      "hex": "002029",
+      "length": 3,
+      "dec": 8233
+    },
+    "name": "Novation"
+  },
+  {
+    "id": {
+      "hex": "00202a",
+      "length": 3,
+      "dec": 8234
+    },
+    "name": "Samkyung Mechatronics"
+  },
+  {
+    "id": {
+      "hex": "00202b",
+      "length": 3,
+      "dec": 8235
+    },
+    "name": "Medeli Electronics"
+  },
+  {
+    "id": {
+      "hex": "00202c",
+      "length": 3,
+      "dec": 8236
+    },
+    "name": "Charlie Lab"
+  },
+  {
+    "id": {
+      "hex": "00202d",
+      "length": 3,
+      "dec": 8237
+    },
+    "name": "Blue Chip Music Technology"
+  },
+  {
+    "id": {
+      "hex": "00202e",
+      "length": 3,
+      "dec": 8238
+    },
+    "name": "BEE"
+  },
+  {
+    "id": {
+      "hex": "00202f",
+      "length": 3,
+      "dec": 8239
+    },
+    "name": "LG Semicon America"
+  },
+  {
+    "id": {
+      "hex": "002030",
+      "length": 3,
+      "dec": 8240
+    },
+    "name": "TESI"
+  },
+  {
+    "id": {
+      "hex": "002031",
+      "length": 3,
+      "dec": 8241
+    },
+    "name": "EMAGIC"
+  },
+  {
+    "id": {
+      "hex": "002032",
+      "length": 3,
+      "dec": 8242
+    },
+    "name": "Behringer"
+  },
+  {
+    "id": {
+      "hex": "002033",
+      "length": 3,
+      "dec": 8243
+    },
+    "name": "Access Music Electronics"
+  },
+  {
+    "id": {
+      "hex": "002034",
+      "length": 3,
+      "dec": 8244
+    },
+    "name": "Synoptic"
+  },
+  {
+    "id": {
+      "hex": "002035",
+      "length": 3,
+      "dec": 8245
+    },
+    "name": "Hanmesoft"
+  },
+  {
+    "id": {
+      "hex": "002036",
+      "length": 3,
+      "dec": 8246
+    },
+    "name": "Terratec Electronic"
+  },
+  {
+    "id": {
+      "hex": "002037",
+      "length": 3,
+      "dec": 8247
+    },
+    "name": "Proel"
+  },
+  {
+    "id": {
+      "hex": "002038",
+      "length": 3,
+      "dec": 8248
+    },
+    "name": "IBK MIDI"
+  },
+  {
+    "id": {
+      "hex": "002039",
+      "length": 3,
+      "dec": 8249
+    },
+    "name": "IRCAM"
+  },
+  {
+    "id": {
+      "hex": "00203a",
+      "length": 3,
+      "dec": 8250
+    },
+    "name": "Propellerhead Software"
+  },
+  {
+    "id": {
+      "hex": "00203b",
+      "length": 3,
+      "dec": 8251
+    },
+    "name": "Red Sound Systems"
+  },
+  {
+    "id": {
+      "hex": "00203c",
+      "length": 3,
+      "dec": 8252
+    },
+    "name": "Elektron"
+  },
+  {
+    "id": {
+      "hex": "00203d",
+      "length": 3,
+      "dec": 8253
+    },
+    "name": "Sintefex Audio"
+  },
+  {
+    "id": {
+      "hex": "00203e",
+      "length": 3,
+      "dec": 8254
+    },
+    "name": "MAM"
+  },
+  {
+    "id": {
+      "hex": "00203f",
+      "length": 3,
+      "dec": 8255
+    },
+    "name": "Amsaro"
+  },
+  {
+    "id": {
+      "hex": "002040",
+      "length": 3,
+      "dec": 8256
+    },
+    "name": "Lanbox"
+  },
+  {
+    "id": {
+      "hex": "002041",
+      "length": 3,
+      "dec": 8257
+    },
+    "name": "Mode Machines"
+  },
+  {
+    "id": {
+      "hex": "002042",
+      "length": 3,
+      "dec": 8258
+    },
+    "name": "DSP Arts"
+  },
+  {
+    "id": {
+      "hex": "002043",
+      "length": 3,
+      "dec": 8259
+    },
+    "name": "Phil Rees Music Tech"
+  },
+  {
+    "id": {
+      "hex": "002044",
+      "length": 3,
+      "dec": 8260
+    },
+    "name": "Stamer Musikanlagen"
+  },
+  {
+    "id": {
+      "hex": "002045",
+      "length": 3,
+      "dec": 8261
+    },
+    "name": "Musical Muntaner"
+  },
+  {
+    "id": {
+      "hex": "002046",
+      "length": 3,
+      "dec": 8262
+    },
+    "name": "C-Mexx Software"
+  },
+  {
+    "id": {
+      "hex": "002047",
+      "length": 3,
+      "dec": 8263
+    },
+    "name": "Klavis Technologies"
+  },
+  {
+    "id": {
+      "hex": "002048",
+      "length": 3,
+      "dec": 8264
+    },
+    "name": "Noteheads"
+  },
+  {
+    "id": {
+      "hex": "002049",
+      "length": 3,
+      "dec": 8265
+    },
+    "name": "Algorithmix"
+  },
+  {
+    "id": {
+      "hex": "00204a",
+      "length": 3,
+      "dec": 8266
+    },
+    "name": "Skrydstrup R&D"
+  },
+  {
+    "id": {
+      "hex": "00204b",
+      "length": 3,
+      "dec": 8267
+    },
+    "name": "Professional Audio"
+  },
+  {
+    "id": {
+      "hex": "00204c",
+      "length": 3,
+      "dec": 8268
+    },
+    "name": "NewWave Labs"
+  },
+  {
+    "id": {
+      "hex": "00204d",
+      "length": 3,
+      "dec": 8269
+    },
+    "name": "Vermona"
+  },
+  {
+    "id": {
+      "hex": "00204e",
+      "length": 3,
+      "dec": 8270
+    },
+    "name": "Nokia"
+  },
+  {
+    "id": {
+      "hex": "00204f",
+      "length": 3,
+      "dec": 8271
+    },
+    "name": "Wave Idea"
+  },
+  {
+    "id": {
+      "hex": "002050",
+      "length": 3,
+      "dec": 8272
+    },
+    "name": "Hartmann"
+  },
+  {
+    "id": {
+      "hex": "002051",
+      "length": 3,
+      "dec": 8273
+    },
+    "name": "Lion's Tracs"
+  },
+  {
+    "id": {
+      "hex": "002052",
+      "length": 3,
+      "dec": 8274
+    },
+    "name": "Analogue Systems"
+  },
+  {
+    "id": {
+      "hex": "002053",
+      "length": 3,
+      "dec": 8275
+    },
+    "name": "Focal-JMlab"
+  },
+  {
+    "id": {
+      "hex": "002054",
+      "length": 3,
+      "dec": 8276
+    },
+    "name": "Ringway Electronics"
+  },
+  {
+    "id": {
+      "hex": "002055",
+      "length": 3,
+      "dec": 8277
+    },
+    "name": "Faith Technologies"
+  },
+  {
+    "id": {
+      "hex": "002056",
+      "length": 3,
+      "dec": 8278
+    },
+    "name": "Showworks"
+  },
+  {
+    "id": {
+      "hex": "002057",
+      "length": 3,
+      "dec": 8279
+    },
+    "name": "Manikin Electronic"
+  },
+  {
+    "id": {
+      "hex": "002058",
+      "length": 3,
+      "dec": 8280
+    },
+    "name": "1 Come Tech"
+  },
+  {
+    "id": {
+      "hex": "002059",
+      "length": 3,
+      "dec": 8281
+    },
+    "name": "Phonic"
+  },
+  {
+    "id": {
+      "hex": "00205a",
+      "length": 3,
+      "dec": 8282
+    },
+    "name": "Dolby Australia"
+  },
+  {
+    "id": {
+      "hex": "00205b",
+      "length": 3,
+      "dec": 8283
+    },
+    "name": "Silansys Technologies"
+  },
+  {
+    "id": {
+      "hex": "00205c",
+      "length": 3,
+      "dec": 8284
+    },
+    "name": "Winbond Electronics"
+  },
+  {
+    "id": {
+      "hex": "00205d",
+      "length": 3,
+      "dec": 8285
+    },
+    "name": "Cinetix Medien und Interface"
+  },
+  {
+    "id": {
+      "hex": "00205e",
+      "length": 3,
+      "dec": 8286
+    },
+    "name": "A&G Soluzioni Digitali"
+  },
+  {
+    "id": {
+      "hex": "00205f",
+      "length": 3,
+      "dec": 8287
+    },
+    "name": "Sequentix"
+  },
+  {
+    "id": {
+      "hex": "002060",
+      "length": 3,
+      "dec": 8288
+    },
+    "name": "Oram Pro Audio"
+  },
+  {
+    "id": {
+      "hex": "002061",
+      "length": 3,
+      "dec": 8289
+    },
+    "name": "Be4"
+  },
+  {
+    "id": {
+      "hex": "002062",
+      "length": 3,
+      "dec": 8290
+    },
+    "name": "Infection Music"
+  },
+  {
+    "id": {
+      "hex": "002063",
+      "length": 3,
+      "dec": 8291
+    },
+    "name": "Central Music"
+  },
+  {
+    "id": {
+      "hex": "002064",
+      "length": 3,
+      "dec": 8292
+    },
+    "name": "genoQs Machines"
+  },
+  {
+    "id": {
+      "hex": "002065",
+      "length": 3,
+      "dec": 8293
+    },
+    "name": "Medialon"
+  },
+  {
+    "id": {
+      "hex": "002066",
+      "length": 3,
+      "dec": 8294
+    },
+    "name": "Waves Audio"
+  },
+  {
+    "id": {
+      "hex": "002067",
+      "length": 3,
+      "dec": 8295
+    },
+    "name": "Jerash Labs"
+  },
+  {
+    "id": {
+      "hex": "002068",
+      "length": 3,
+      "dec": 8296
+    },
+    "name": "Da Fact"
+  },
+  {
+    "id": {
+      "hex": "002069",
+      "length": 3,
+      "dec": 8297
+    },
+    "name": "Elby Designs"
+  },
+  {
+    "id": {
+      "hex": "00206a",
+      "length": 3,
+      "dec": 8298
+    },
+    "name": "Spectral Audio"
+  },
+  {
+    "id": {
+      "hex": "00206b",
+      "length": 3,
+      "dec": 8299
+    },
+    "name": "Arturia"
+  },
+  {
+    "id": {
+      "hex": "00206c",
+      "length": 3,
+      "dec": 8300
+    },
+    "name": "Vixid"
+  },
+  {
+    "id": {
+      "hex": "00206d",
+      "length": 3,
+      "dec": 8301
+    },
+    "name": "C-Thru Music"
+  },
+  {
+    "id": {
+      "hex": "00206e",
+      "length": 3,
+      "dec": 8302
+    },
+    "name": "Ya Horng Electronic"
+  },
+  {
+    "id": {
+      "hex": "00206f",
+      "length": 3,
+      "dec": 8303
+    },
+    "name": "SM Pro Audio"
+  },
+  {
+    "id": {
+      "hex": "002070",
+      "length": 3,
+      "dec": 8304
+    },
+    "name": "OTO Machines"
+  },
+  {
+    "id": {
+      "hex": "002071",
+      "length": 3,
+      "dec": 8305
+    },
+    "name": "ELZAB"
+  },
+  {
+    "id": {
+      "hex": "002072",
+      "length": 3,
+      "dec": 8306
+    },
+    "name": "Blackstar Amplification"
+  },
+  {
+    "id": {
+      "hex": "002073",
+      "length": 3,
+      "dec": 8307
+    },
+    "name": "M3i Technologies"
+  },
+  {
+    "id": {
+      "hex": "002074",
+      "length": 3,
+      "dec": 8308
+    },
+    "name": "Gemalto"
+  },
+  {
+    "id": {
+      "hex": "002075",
+      "length": 3,
+      "dec": 8309
+    },
+    "name": "Prostage"
+  },
+  {
+    "id": {
+      "hex": "002076",
+      "length": 3,
+      "dec": 8310
+    },
+    "name": "Teenage Engineering"
+  },
+  {
+    "id": {
+      "hex": "002077",
+      "length": 3,
+      "dec": 8311
+    },
+    "name": "Tobias Erichsen Consulting"
+  },
+  {
+    "id": {
+      "hex": "002078",
+      "length": 3,
+      "dec": 8312
+    },
+    "name": "Nixer"
+  },
+  {
+    "id": {
+      "hex": "002079",
+      "length": 3,
+      "dec": 8313
+    },
+    "name": "Hanpin Electron"
+  },
+  {
+    "id": {
+      "hex": "00207a",
+      "length": 3,
+      "dec": 8314
+    },
+    "name": "R. Sowa"
+  },
+  {
+    "id": {
+      "hex": "00207b",
+      "length": 3,
+      "dec": 8315
+    },
+    "name": "Beyond Music"
+  },
+  {
+    "id": {
+      "hex": "00207c",
+      "length": 3,
+      "dec": 8316
+    },
+    "name": "Kiss Box"
+  },
+  {
+    "id": {
+      "hex": "00207d",
+      "length": 3,
+      "dec": 8317
+    },
+    "name": "Misa Digital Technologies"
+  },
+  {
+    "id": {
+      "hex": "00207e",
+      "length": 3,
+      "dec": 8318
+    },
+    "name": "AI Musics Technology"
+  },
+  {
+    "id": {
+      "hex": "00207f",
+      "length": 3,
+      "dec": 8319
+    },
+    "name": "Serato"
+  },
+  {
+    "id": {
+      "hex": "002100",
+      "length": 3,
+      "dec": 8448
+    },
+    "name": "Limex"
+  },
+  {
+    "id": {
+      "hex": "002101",
+      "length": 3,
+      "dec": 8449
+    },
+    "name": "Kyodday"
+  },
+  {
+    "id": {
+      "hex": "002102",
+      "length": 3,
+      "dec": 8450
+    },
+    "name": "Mutable Instruments"
+  },
+  {
+    "id": {
+      "hex": "002103",
+      "length": 3,
+      "dec": 8451
+    },
+    "name": "PreSonus Software"
+  },
+  {
+    "id": {
+      "hex": "002104",
+      "length": 3,
+      "dec": 8452
+    },
+    "name": "Ingenico"
+  },
+  {
+    "id": {
+      "hex": "002105",
+      "length": 3,
+      "dec": 8453
+    },
+    "name": "Fairlight Instruments"
+  },
+  {
+    "id": {
+      "hex": "002106",
+      "length": 3,
+      "dec": 8454
+    },
+    "name": "Musicom Lab"
+  },
+  {
+    "id": {
+      "hex": "002107",
+      "length": 3,
+      "dec": 8455
+    },
+    "name": "Modal Electronics"
+  },
+  {
+    "id": {
+      "hex": "002108",
+      "length": 3,
+      "dec": 8456
+    },
+    "name": "RWA"
+  },
+  {
+    "id": {
+      "hex": "002109",
+      "length": 3,
+      "dec": 8457
+    },
+    "name": "Native Instruments"
+  },
+  {
+    "id": {
+      "hex": "00210a",
+      "length": 3,
+      "dec": 8458
+    },
+    "name": "Naonext"
+  },
+  {
+    "id": {
+      "hex": "00210b",
+      "length": 3,
+      "dec": 8459
+    },
+    "name": "MFB"
+  },
+  {
+    "id": {
+      "hex": "00210c",
+      "length": 3,
+      "dec": 8460
+    },
+    "name": "Teknel Research"
+  },
+  {
+    "id": {
+      "hex": "00210d",
+      "length": 3,
+      "dec": 8461
+    },
+    "name": "Ploytec"
+  },
+  {
+    "id": {
+      "hex": "00210e",
+      "length": 3,
+      "dec": 8462
+    },
+    "name": "Surfin Kangaroo Studio"
+  },
+  {
+    "id": {
+      "hex": "00210f",
+      "length": 3,
+      "dec": 8463
+    },
+    "name": "Philips Electronics"
+  },
+  {
+    "id": {
+      "hex": "002110",
+      "length": 3,
+      "dec": 8464
+    },
+    "name": "ROLI"
+  },
+  {
+    "id": {
+      "hex": "002111",
+      "length": 3,
+      "dec": 8465
+    },
+    "name": "Panda-Audio"
+  },
+  {
+    "id": {
+      "hex": "002112",
+      "length": 3,
+      "dec": 8466
+    },
+    "name": "BauM Software"
+  },
+  {
+    "id": {
+      "hex": "002113",
+      "length": 3,
+      "dec": 8467
+    },
+    "name": "Machinewerks"
+  },
+  {
+    "id": {
+      "hex": "002114",
+      "length": 3,
+      "dec": 8468
+    },
+    "name": "Xiamen Elane Electronics"
+  },
+  {
+    "id": {
+      "hex": "002115",
+      "length": 3,
+      "dec": 8469
+    },
+    "name": "Marshall Amplification"
+  },
+  {
+    "id": {
+      "hex": "002116",
+      "length": 3,
+      "dec": 8470
+    },
+    "name": "Kiwitechnics"
+  },
+  {
+    "id": {
+      "hex": "002117",
+      "length": 3,
+      "dec": 8471
+    },
+    "name": "Rob Papen"
+  },
+  {
+    "id": {
+      "hex": "002118",
+      "length": 3,
+      "dec": 8472
+    },
+    "name": "Spicetone"
+  },
+  {
+    "id": {
+      "hex": "002119",
+      "length": 3,
+      "dec": 8473
+    },
+    "name": "V3Sound"
+  },
+  {
+    "id": {
+      "hex": "00211a",
+      "length": 3,
+      "dec": 8474
+    },
+    "name": "IK Multimedia"
+  },
+  {
+    "id": {
+      "hex": "00211b",
+      "length": 3,
+      "dec": 8475
+    },
+    "name": "Novalia"
+  },
+  {
+    "id": {
+      "hex": "00211c",
+      "length": 3,
+      "dec": 8476
+    },
+    "name": "Modor Music"
+  },
+  {
+    "id": {
+      "hex": "00211d",
+      "length": 3,
+      "dec": 8477
+    },
+    "name": "Ableton"
+  },
+  {
+    "id": {
+      "hex": "00211e",
+      "length": 3,
+      "dec": 8478
+    },
+    "name": "Dtronics"
+  },
+  {
+    "id": {
+      "hex": "00211f",
+      "length": 3,
+      "dec": 8479
+    },
+    "name": "ZAQ Audio"
+  },
+  {
+    "id": {
+      "hex": "002120",
+      "length": 3,
+      "dec": 8480
+    },
+    "name": "Muabaobao Education Technology"
+  },
+  {
+    "id": {
+      "hex": "002121",
+      "length": 3,
+      "dec": 8481
+    },
+    "name": "Flux Effects"
+  },
+  {
+    "id": {
+      "hex": "002122",
+      "length": 3,
+      "dec": 8482
+    },
+    "name": "Audiothingies"
+  },
+  {
+    "id": {
+      "hex": "002123",
+      "length": 3,
+      "dec": 8483
+    },
+    "name": "Retrokits"
+  },
+  {
+    "id": {
+      "hex": "002124",
+      "length": 3,
+      "dec": 8484
+    },
+    "name": "Morningstar FX"
+  },
+  {
+    "id": {
+      "hex": "002125",
+      "length": 3,
+      "dec": 8485
+    },
+    "name": "Changsha Hotone Audio"
+  },
+  {
+    "id": {
+      "hex": "002126",
+      "length": 3,
+      "dec": 8486
+    },
+    "name": "Expressive"
+  },
+  {
+    "id": {
+      "hex": "002127",
+      "length": 3,
+      "dec": 8487
+    },
+    "name": "Expert Sleepers"
+  },
+  {
+    "id": {
+      "hex": "002128",
+      "length": 3,
+      "dec": 8488
+    },
+    "name": "Timecode-Vision Technology"
+  },
+  {
+    "id": {
+      "hex": "002129",
+      "length": 3,
+      "dec": 8489
+    },
+    "name": "Hornberg Research"
+  },
+  {
+    "id": {
+      "hex": "00212a",
+      "length": 3,
+      "dec": 8490
+    },
+    "name": "Sonic Potions"
+  },
+  {
+    "id": {
+      "hex": "00212b",
+      "length": 3,
+      "dec": 8491
+    },
+    "name": "Audiofront"
+  },
+  {
+    "id": {
+      "hex": "00212c",
+      "length": 3,
+      "dec": 8492
+    },
+    "name": "Fred's Lab"
+  },
+  {
+    "id": {
+      "hex": "00212d",
+      "length": 3,
+      "dec": 8493
+    },
+    "name": "Audio Modeling"
+  },
+  {
+    "id": {
+      "hex": "00212e",
+      "length": 3,
+      "dec": 8494
+    },
+    "name": "C. Bechstein Digital"
+  },
+  {
+    "id": {
+      "hex": "00212f",
+      "length": 3,
+      "dec": 8495
+    },
+    "name": "Motas Electronics"
+  },
+  {
+    "id": {
+      "hex": "002130",
+      "length": 3,
+      "dec": 8496
+    },
+    "name": "MIND Music Labs"
+  },
+  {
+    "id": {
+      "hex": "002131",
+      "length": 3,
+      "dec": 8497
+    },
+    "name": "Sonic Academy"
+  },
+  {
+    "id": {
+      "hex": "002132",
+      "length": 3,
+      "dec": 8498
+    },
+    "name": "Bome Software"
+  },
+  {
+    "id": {
+      "hex": "002133",
+      "length": 3,
+      "dec": 8499
+    },
+    "name": "AODYO"
+  },
+  {
+    "id": {
+      "hex": "002134",
+      "length": 3,
+      "dec": 8500
+    },
+    "name": "Pianoforce"
+  },
+  {
+    "id": {
+      "hex": "002135",
+      "length": 3,
+      "dec": 8501
+    },
+    "name": "Dreadbox"
+  },
+  {
+    "id": {
+      "hex": "002136",
+      "length": 3,
+      "dec": 8502
+    },
+    "name": "TouchKeys Instruments"
+  },
+  {
+    "id": {
+      "hex": "002137",
+      "length": 3,
+      "dec": 8503
+    },
+    "name": "Gigrig"
+  },
+  {
+    "id": {
+      "hex": "002138",
+      "length": 3,
+      "dec": 8504
+    },
+    "name": "ALM"
+  },
+  {
+    "id": {
+      "hex": "002139",
+      "length": 3,
+      "dec": 8505
+    },
+    "name": "CH Sound Design"
+  },
+  {
+    "id": {
+      "hex": "00213a",
+      "length": 3,
+      "dec": 8506
+    },
+    "name": "Beat Bars"
+  },
+  {
+    "id": {
+      "hex": "00213b",
+      "length": 3,
+      "dec": 8507
+    },
+    "name": "Blokas"
+  },
+  {
+    "id": {
+      "hex": "00213c",
+      "length": 3,
+      "dec": 8508
+    },
+    "name": "GEWA Music"
+  },
+  {
+    "id": {
+      "hex": "00213d",
+      "length": 3,
+      "dec": 8509
+    },
+    "name": "dadamachines"
+  },
+  {
+    "id": {
+      "hex": "00213e",
+      "length": 3,
+      "dec": 8510
+    },
+    "name": "Augmented Instruments"
+  },
+  {
+    "id": {
+      "hex": "00213f",
+      "length": 3,
+      "dec": 8511
+    },
+    "name": "Supercritical"
+  },
+  {
+    "id": {
+      "hex": "002140",
+      "length": 3,
+      "dec": 8512
+    },
+    "name": "Genki Instruments"
+  },
+  {
+    "id": {
+      "hex": "002141",
+      "length": 3,
+      "dec": 8513
+    },
+    "name": "Marienberg Devices"
+  },
+  {
+    "id": {
+      "hex": "002142",
+      "length": 3,
+      "dec": 8514
+    },
+    "name": "Supperware"
+  },
+  {
+    "id": {
+      "hex": "002143",
+      "length": 3,
+      "dec": 8515
+    },
+    "name": "Imoxplus"
+  },
+  {
+    "id": {
+      "hex": "002144",
+      "length": 3,
+      "dec": 8516
+    },
+    "name": "Swapp Technologies"
+  },
+  {
+    "id": {
+      "hex": "002145",
+      "length": 3,
+      "dec": 8517
+    },
+    "name": "Electra One"
+  },
+  {
+    "id": {
+      "hex": "002146",
+      "length": 3,
+      "dec": 8518
+    },
+    "name": "Digital Clef"
+  },
+  {
+    "id": {
+      "hex": "002147",
+      "length": 3,
+      "dec": 8519
+    },
+    "name": "Paul Whittington Group"
+  },
+  {
+    "id": {
+      "hex": "004000",
+      "length": 3,
+      "dec": 16384
+    },
+    "name": "Crimson Technology"
+  },
+  {
+    "id": {
+      "hex": "004001",
+      "length": 3,
+      "dec": 16385
+    },
+    "name": "Softbank"
+  },
+  {
+    "id": {
+      "hex": "004003",
+      "length": 3,
+      "dec": 16387
+    },
+    "name": "D&M Holdings"
+  }
+]
