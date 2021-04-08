@@ -689,6 +689,22 @@
   },
   {
     "id": {
+      "hex": "7e",
+      "length": 1,
+      "dec": 126
+    },
+    "name": "(non-real time)"
+  },
+  {
+    "id": {
+      "hex": "7f",
+      "length": 1,
+      "dec": 127
+    },
+    "name": "(real time)"
+  },  
+  {
+    "id": {
       "hex": "000001",
       "length": 3,
       "dec": 1
